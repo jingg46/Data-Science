@@ -1,0 +1,10 @@
+---
+title: "Data science proposal"
+output: html_document
+author: Jing Li   
+---
+
+###To-do list
+* Use Indeed.com to grab required data
+* Use web-scriping to obtain the required data
+* Analyze data using R
