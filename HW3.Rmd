@@ -1,0 +1,24 @@
+---
+title: "HW3"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+**1b**
+```{r}
+placebo <- c(1,1,2,2,3,4,4,5,5,8,8,8,8,11,11,12,12,15,17,22,23)
+mp6 <- c(6,6,6,7,10,13,16,22,23,6,9,10,11,17,19,20,25,32,32,34,35)
+placebo.censor <- rep(1, 21)
+mp6.censor <- c(rep(1,9), rep(0,12))
+
+library(survival)
+treatment <- c(rep(0, 21), rep(1, 21))
+dat <- Surv(c(placebo, mp6), c(placebo.censor, mp6.censor))
+fit <- coxph(dat ~ treatment, ties = "breslow")
+cox.zph(fit)
+
+
+```
+
+This test is used for checking if the proportionality of hazard between treatment and control groups is violated. Our null hypothesis in this case is that the relative hazard does not remain constant. The p value is 0.799, which is larger than 0.05. The result indicates that we don't have enough evidence to conclude that the proportionality of hazard is violated. Therefore, we can confirm the validity of the proportional hazards model.

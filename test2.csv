@@ -1,0 +1,482 @@
+Company,Hadoop,Industry,Java,Location,Number of Records,PHD,Perl,Python,R,SQL,Sector,Title,City,County,Latitude,Longitude,State,Zip Code
+DIVERSANT LLC,TRUE,IT,TRUE,"Chandler, AZ",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Internet Services,                    ,                ,          ",Big Data Engineer,Chandler,Maricopa,33.247861,-111.770161,AZ,85249
+SVB Financial Group,FALSE,Financial/Business Services,FALSE,"Tempe, AZ",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Banking,                    ,                    ,    ",Data Scientist,Tempe,Maricopa,33.276539,-112.18717,AZ,85285
+City of Hope,FALSE,Other,FALSE,"Irwindale, CA",1,FALSE,TRUE,TRUE,TRUE,TRUE,NA,Data Scientist - Clinical Informatics,Baldwin Park,Los Angeles,33.786594,-118.298662,CA,91706
+LeapYear,FALSE,Other,FALSE,"Berkeley, CA",1,TRUE,FALSE,FALSE,FALSE,FALSE,NA,Principal Data Scientist,Berkeley,Alameda,37.680181,-121.921498,CA,94712
+GBL Systems Corporation,FALSE,Other,TRUE,"Camarillo, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Software Architect,Camarillo,Ventura,34.032383,-119.1343,CA,93011
+Ipsos North America,FALSE,Other,FALSE,"Culver City, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,ISC - Data Scientist,Culver City,Los Angeles,33.786594,-118.298662,CA,90230
+Blue Shield of California,FALSE,Other,FALSE,"El Dorado Hills, CA",1,FALSE,FALSE,FALSE,TRUE,TRUE,NA,Senior Data Scientist,El Dorado Hills,El Dorado,38.686847,-121.044846,CA,95762
+AT&T,FALSE,Other,FALSE,"El Segundo, CA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Retail,                    ,                ,                    C","Senior System Architect, Content Metadata",El Segundo,Los Angeles,33.786594,-118.298662,CA,90245
+CyberCoders,FALSE,IT,FALSE,"Fremont, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Computer Hardware,                    ,                ,          ",Senior/Lead Architect - Computer Vision/Image Processing,Fremont,Alameda,37.509453,-121.95832,CA,94538
+Tailored Brands,FALSE,Other,FALSE,"Fremont, CA",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Senior Data Scientist,Fremont,Alameda,37.509453,-121.95832,CA,94538
+CyberCoders,FALSE,IT,FALSE,"Fremont, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Hardware,                    ,                ,          ",Principal Solution Architect - Cloud IAAS/PAAS,Fremont,Alameda,37.509453,-121.95832,CA,94538
+CyberCoders,FALSE,IT,FALSE,"Fremont, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Computer Hardware,                    ,                ,          ",Lead Deep Learning Architect - Hardware Development,Fremont,Alameda,37.509453,-121.95832,CA,94538
+Kforce Inc,FALSE,IT,TRUE,"Irvine, CA",1,TRUE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Senior Data Scientist,Irvine,Orange,33.615525,-117.782805,CA,92612
+Blizzard Entertainment,TRUE,Other,TRUE,"Irvine, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,"Data Scientist, Global Insights",Irvine,Orange,33.615525,-117.782805,CA,92612
+Randstad Technologies,FALSE,IT,TRUE,"La Jolla, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Full Stack Developer,La Jolla,San Diego,32.898511,-117.225744,CA,92037
+CardinalHire,FALSE,Other,FALSE,"Los Angeles, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Los Angeles,Los Angeles,33.786594,-118.298662,CA,90004
+Skurt,FALSE,Other,FALSE,"Los Angeles, CA",1,TRUE,FALSE,FALSE,FALSE,TRUE,NA,Data Scientist,Los Angeles,Los Angeles,33.786594,-118.298662,CA,90004
+RCM Technologies,FALSE,IT,TRUE,"Los Angeles, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",UI Developer,Los Angeles,Los Angeles,33.786594,-118.298662,CA,90004
+Mastech,FALSE,Other,FALSE,"Magalia, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Other/Not Classified,                    ,                ,       ",Senior Front End Engineer,Magalia,Butte,39.867959,-121.599628,CA,95954
+BCG Digital Ventures,FALSE,Other,FALSE,"Manhattan Beach, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Lead Data Scientist,Manhattan Beach,Los Angeles,33.786594,-118.298662,CA,90266
+Facebook,TRUE,Other,FALSE,"Menlo Park, CA",1,FALSE,TRUE,TRUE,TRUE,TRUE,NA,"Data Scientist, Analytics",Menlo Park,San Mateo,37.381144,-122.334825,CA,94026
+Oculus VR,TRUE,Other,FALSE,"Menlo Park, CA",1,FALSE,TRUE,TRUE,FALSE,TRUE,NA,Data Scientist - Social VR,Menlo Park,San Mateo,37.381144,-122.334825,CA,94026
+DISYS,FALSE,Other,FALSE,"Menlo Park, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Energy and Utilities,                    ,                    ,   ",Data Analyst,Menlo Park,San Mateo,37.381144,-122.334825,CA,94026
+Micron,FALSE,Other,FALSE,"Milpitas, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,"BU Data Scientist, Pricing",Milpitas,Santa Clara,37.436454,-121.861989,CA,95035
+"Micron Technology, Inc.",FALSE,Other,FALSE,"Milpitas, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,"BU Data Scientist, Pricing",Milpitas,Santa Clara,37.436454,-121.861989,CA,95035
+Kforce Inc,FALSE,IT,TRUE,"Milpitas, CA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Full-Stack Experimentation Engineer,Milpitas,Santa Clara,37.436454,-121.861989,CA,95035
+Strategic IT Staffing,FALSE,IT,FALSE,"Monterey, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Data Science Director - Relocation Required,Monterey,Monterey,36.35433,-121.132928,CA,93942
+CyberCoders,FALSE,IT,TRUE,"Mountain View, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Senior Data Scientist,Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+Kforce Inc,TRUE,IT,FALSE,"Mountain View, CA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Engineer,Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+Globalupside,FALSE,Other,FALSE,"Mountain View, CA",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Retail,                    ,                ,                    E",Data Scientist,Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+"23andMe, Inc.",FALSE,Other,FALSE,"Mountain View, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Data Scientist,Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+Symantec Corporation,FALSE,Other,FALSE,"Mountain View, CA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Sr Data Scientist,Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+Intelliswift Software,TRUE,Financial/Business Services,FALSE,"Mountain View, CA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Financial Services,                    ,                ,         ",Big Data Engineer,Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+Kforce Inc,TRUE,IT,TRUE,"Mountain View, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",Spark Engineer (Data Engineer),Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+Qventus,FALSE,Other,FALSE,"Mountain View, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Mountain View,Santa Clara,37.189396,-121.705327,CA,94035
+CyberCoders,TRUE,IT,TRUE,"Newport Beach, CA",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Computer Software,                    ,                ,          ","Data Scientist   AI, Python, Security (RELOCATION ASSISTANCE!)",Newport Beach,Orange,33.555291,-117.833298,CA,92661
+CyberCoders,TRUE,IT,TRUE,"Newport Coast, CA",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Computer Software,                    ,                ,          ","Data Scientist   AI, Python, Security (RELOCATION ASSISTANCE!)",Newport Coast,Orange,33.597128,-117.835987,CA,92657
+Brainworks,FALSE,Other,FALSE,"Oakland, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Consumer Packaged Goods Manufacturing,                    ,       ",Sr Manager Insights & Data Strategy,Oakland,Alameda,37.680181,-121.921498,CA,94604
+The Clorox Company,TRUE,Other,TRUE,"Oakland, CA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Associate Global Insights Manager - Data Scientist,Oakland,Alameda,37.680181,-121.921498,CA,94604
+Dictionary.com,FALSE,Other,FALSE,"Oakland, CA",1,TRUE,FALSE,TRUE,FALSE,TRUE,NA,Sr. Data Scientist,Oakland,Alameda,37.680181,-121.921498,CA,94604
+IAC,FALSE,Other,FALSE,"Oakland, CA",1,TRUE,FALSE,TRUE,FALSE,TRUE,NA,Sr. Data Scientist,Oakland,Alameda,37.680181,-121.921498,CA,94604
+CyberCoders,FALSE,IT,FALSE,"Palo Alto, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Computer Vision Engineer - Renewable Energy Startup,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+CyberCoders,FALSE,Healthcare/Biotech,FALSE,"Palo Alto, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Insurance,                    ,                ,                  ",Data Scientist,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+CyberCoders,FALSE,Other,FALSE,"Palo Alto, CA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Agriculture/Forestry/Fishing,                    ,                ","Data Scientist  / Data Engineer R, Python, Cannabis Data Sets",Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+CyberCoders,FALSE,IT,TRUE,"Palo Alto, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Lead Software Engineer - JAVA/Backend Development,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+CyberCoders,FALSE,IT,TRUE,"Palo Alto, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Machine Learning Scientist,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+CyberCoders,TRUE,IT,FALSE,"Woodside, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Data Engineer - Growth Opportunity,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+ShareThis,FALSE,Other,FALSE,"Palo Alto, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Principal Data Scientist,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+Infosys,TRUE,IT,TRUE,"Palo Alto, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Internet Services,                    ,                ,          ",Product Technical Lead - US,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+Infosys,TRUE,IT,TRUE,"Palo Alto, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Internet Services,                    ,                ,          ",Principal Product Architect - US,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+SAP,TRUE,Other,TRUE,"Palo Alto, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist Job,Palo Alto,Santa Clara,37.189396,-121.705327,CA,94301
+"Workday, Inc.",FALSE,Other,FALSE,"Pleasanton, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Lead Data Scientist,Pleasanton,Alameda,37.646081,-121.862128,CA,94566
+PTP,TRUE,Other,TRUE,"Gold River, CA",1,TRUE,FALSE,FALSE,TRUE,TRUE,NA,Data Scientist - REMOTE,Rancho Cordova,Sacramento,38.377411,-121.444429,CA,95741
+Northrop Grumman Corporation,TRUE,Other,FALSE,"Redondo Beach, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Electronics, Components, and Semiconductor Mfg,                   ",Data Scientist/Developer 1,Redondo Beach,Los Angeles,33.786594,-118.298662,CA,90277
+Northrop Grumman Corporation,TRUE,Other,FALSE,"Redondo Beach, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Aerospace and Defense,                    ,                ,      ",Data Scientist/Developer 1,Redondo Beach,Los Angeles,33.786594,-118.298662,CA,90277
+BioCentury Inc.,FALSE,Healthcare/Biotech,FALSE,"Redwood City, CA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Biotechnology/Pharmaceuticals,                    ,               ",Data Engineer,Redwood City,San Mateo,37.381144,-122.334825,CA,94059
+AutoGrid,TRUE,Other,TRUE,"Redwood City, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Senior Data Scientist,Redwood City,San Mateo,37.381144,-122.334825,CA,94059
+EA Phenomic,FALSE,Other,FALSE,"Redwood City, CA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Sr. Data Scientist (111752),Redwood City,San Mateo,37.381144,-122.334825,CA,94059
+EA Phenomic,TRUE,Other,TRUE,"Redwood City, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Sr. Data Scientist (103341),Redwood City,San Mateo,37.381144,-122.334825,CA,94059
+CyberCoders,TRUE,IT,FALSE,"Redwood City, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Data Engineer - Growth Opportunity,Redwood City,San Mateo,37.381144,-122.334825,CA,94059
+Hewlett Packard Enterprise,TRUE,Other,FALSE,"Sacramento, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist,Sacramento,Sacramento,38.377411,-121.444429,CA,94204
+CyberCoders,FALSE,Other,FALSE,"San Clemente, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Construction - Industrial Facilities and Infrastructure,          ",Data Scientist   Awarded Startup of the Year!!,San Clemente,Orange,33.438428,-117.623131,CA,92674
+Intelliswift Software,TRUE,Financial/Business Services,FALSE,"San Diego, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Financial Services,                    ,                ,         ",Big Data Engineer,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Kforce Inc,FALSE,IT,TRUE,"San Diego, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Lead Business Intelligence/Online Data Analytics,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Strategic IT Staffing,FALSE,IT,FALSE,"San Diego, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Data Science Director - Relocation Required,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Kforce Inc,TRUE,IT,TRUE,"San Diego, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Engineer,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Accenture,TRUE,Financial/Business Services,TRUE,"San Diego, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Accounting and Auditing Services,                    ,            ",Lead Data Scientist,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Illumina,FALSE,Other,FALSE,"San Diego, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist Intern,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Strategic IT Staffing,FALSE,IT,FALSE,"San Diego, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Data Science Director,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Teradata Corporation,TRUE,Other,FALSE,"San Diego, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Think Big Analytics Senior Deep Learning Data Scientist,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Teradata,TRUE,Other,FALSE,"San Diego, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,"Data Scientist, Deep Learning",San Diego,San Diego,32.562106,-117.07166,CA,92134
+Kforce Inc,FALSE,IT,FALSE,"San Diego, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Business Analyst - Digital Assets,San Diego,San Diego,32.562106,-117.07166,CA,92134
+Twitter,FALSE,Other,FALSE,"San Francisco, CA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist: Modeling/Forecasting,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+OSI Engineering,FALSE,Other,TRUE,"San Francisco, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Senior Front-End Web Developer,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Bayside Solutions,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Internet Services; Computer/IT Services,                    ,     ",Data Visualization Analyst,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Senior Software Engineer,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ","Senior Backend Engineer - Node.js, Python, MongoDB",San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Skyrocket Ventures,FALSE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,"Research Engineer - Computer Vision (Augmented Reality, up to $180k)",San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+"Salesforce.com, Inc.",FALSE,Other,TRUE,"San Francisco, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,NA,Lead / Principal Data Scientist - Security Analytics,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Brainworks,FALSE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Consumer Packaged Goods Manufacturing,                    ,       ",Senior Analyst Customer Optimization,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Software,                    ,                ,          ",Data Science Manager - Lead a team of Data Scientists!,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Euclid Analytics,FALSE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Sr. Data Scientist,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Ancestry,TRUE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Senior Data Scientist,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Senior Data Scientist - NLP/Deep Learning,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Computer Software,                    ,                ,          ","Senior Back End Engineer- Python, SQL, RESTful, AWS, $180k(DOE)!",San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Workday,TRUE,Other,TRUE,"San Francisco, CA",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist / Machine Learning Engineer - Application & Platform,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+"Airbnb, Inc.",FALSE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Other/Not Classified,                    ,                        ",Multiple Positions,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Salesforce.com,TRUE,Other,TRUE,"San Francisco (HQ), CA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - Search,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,FALSE,IT,FALSE,"San Francisco, CA",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Senior Data Scientist - 50% remote!,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+entelo,FALSE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,"Senior Data Scientist, Natural Language Processing",San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Strategic IT Staffing,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Software; Computer/IT Services,                    ,     ",Data Science Director,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,TRUE,IT,TRUE,"San Francisco, CA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer Software,                    ,                ,          ",Lead Backend Engineer (Node.js),San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+StrideÿHealth,FALSE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+Skyrocket Ventures,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Internet Services; Computer Software; Healthcare Services,        ","Jr. to Senior Data Scientist, top tier Health company (up to $170k)",San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+CyberCoders,FALSE,IT,FALSE,"San Francisco, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Director of Data Science -Signal Processing Expertise!!,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+"Lyft, Inc.",FALSE,Other,FALSE,"San Francisco, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Other/Not Classified,                    ,                        ",MULTIPLE OPENINGS,San Francisco,San Mateo,37.621582,-122.392882,CA,94128
+"Inirus, LLC",FALSE,Financial/Business Services,FALSE,"San Jose, CA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Financial Services,                    ,                ,         ",Sr Programmer,San Jose,Santa Clara,37.178745,-121.741809,CA,95141
+eBay Inc.,FALSE,Other,FALSE,"San Jose, CA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist / Economist,San Jose,Santa Clara,37.178745,-121.741809,CA,95141
+ASML,FALSE,Other,FALSE,"San Jose, CA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Semiconductor Patterning Data Scientist,San Jose,Santa Clara,37.178745,-121.741809,CA,95141
+Experis,FALSE,Other,TRUE,"San Jose, CA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Telecommunications Services,                    ,                ,",Full-Stack Experimentation Engineer,San Jose,Santa Clara,37.178745,-121.741809,CA,95141
+Strategic IT Staffing,FALSE,IT,FALSE,"San Jose, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Software; Computer/IT Services,                    ,     ",Data Science Director,San Jose,Santa Clara,37.178745,-121.741809,CA,95141
+Strategic IT Staffing,FALSE,IT,FALSE,"San Jose, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Data Science Director,San Jose,Santa Clara,37.178745,-121.741809,CA,95141
+Amiseq,TRUE,IT,TRUE,"San Mateo, CA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Computer/IT Services,                    ,                    ,   ",Data Engineer,San Mateo,San Mateo,37.381144,-122.334825,CA,94405
+CyberCoders,FALSE,Financial/Business Services,FALSE,"San Mateo, CA",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Banking,                    ,                ,                    ","Data Scientist - R, SAS, Statistical Modeling",San Mateo,San Mateo,37.381144,-122.334825,CA,94405
+Chegg,TRUE,Other,FALSE,"Santa Clara, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - Contract 3-4 months,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+"Hitachi America, Ltd.",TRUE,Healthcare/Biotech,FALSE,"Santa Clara, CA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Energy and Utilities; Healthcare Services; Financial Services,    ","Research Scientist, Advanced Analytics",Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+NVIDIA Corporation,FALSE,IT,FALSE,"Santa Clara, CA",1,TRUE,FALSE,FALSE,FALSE,FALSE,"Computer Hardware,                    ,                ,          ",Medical Imaging Alliance Manager,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+Tavant Technologies Inc,FALSE,Other,FALSE,"Santa Clara, CA",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Senior Data Scientist,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+NVIDIA Corporation,FALSE,IT,FALSE,"Santa Clara, CA",1,FALSE,TRUE,TRUE,FALSE,FALSE,"Computer Hardware,                    ,                ,          ",Solution Architect - Virtualization,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+NVIDIA Corporation,TRUE,Other,FALSE,"Santa Clara, CA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Deep Learning Data Scientist,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+Tavant Technologies Inc,FALSE,Other,FALSE,"Santa Clara, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+"Apple, Inc",FALSE,Other,TRUE,"Santa Clara Valley, CA",1,TRUE,FALSE,TRUE,FALSE,TRUE,NA,Senior Data Scientist - iPhone Operations,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+NTT DATA Services,FALSE,IT,FALSE,"Santa Clara, CA",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Scientist,Santa Clara,Santa Clara,37.189396,-121.705327,CA,95050
+Plantronics,TRUE,Other,TRUE,"Santa Cruz, CA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Senior R&D Data Scientist,Santa Cruz,Santa Cruz,36.9634,-121.973771,CA,95063
+DexMedia,TRUE,Other,FALSE,"Santa Monica, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Senior Data Scientist,Santa Monica,Los Angeles,33.786594,-118.298662,CA,90401
+VincentBenjamin,FALSE,Other,FALSE,"Santa Monica, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Food and Beverage Production,                    ,                ",Data Scientist,Santa Monica,Los Angeles,33.786594,-118.298662,CA,90401
+Retention Science,FALSE,Other,FALSE,"Santa Monica, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Advertising and PR Services,                    ,                 ",PRINCIPAL DATA SCIENTIST,Santa Monica,Los Angeles,33.786594,-118.298662,CA,90401
+CyberCoders,TRUE,Other,FALSE,"Santa Monica, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Advertising and PR Services,                    ,                ,",Data Scientist,Santa Monica,Los Angeles,33.786594,-118.298662,CA,90401
+Avispa LLC,TRUE,Other,FALSE,"Sunnyvale, CA",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Business Operations Analyst,Sunnyvale,Santa Clara,37.189396,-121.705327,CA,94086
+Innoza Tech,TRUE,Other,TRUE,"Sunnyvale, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Engineer,Sunnyvale,Santa Clara,37.189396,-121.705327,CA,94086
+"Equinix, Inc.",TRUE,Other,FALSE,"Sunnyvale, CA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Senior Data Scientist,Sunnyvale,Santa Clara,37.189396,-121.705327,CA,94086
+Vaco - Los Angeles (LAX),FALSE,Financial/Business Services,FALSE,"Thousand Oaks, CA",1,TRUE,FALSE,FALSE,FALSE,TRUE,Management Consulting Services; Computer Software; Financial Servi,Data Scientist,Thousand Oaks,Ventura,34.032383,-119.1343,CA,91358
+Matrix Resources,FALSE,Other,FALSE,"Walnut Creek, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Staffing/Employment Agencies,                    ,                ",Recruiter,Walnut Creek,Contra Costa,37.777208,-121.955399,CA,94597
+Bayside Solutions,FALSE,IT,FALSE,"Walnut Creek, CA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software; Computer/IT Services; Financial Services,      ",Senior Product Manager,Walnut Creek,Contra Costa,37.777208,-121.955399,CA,94597
+SpotXchange,FALSE,Other,FALSE,"Broomfield, CO",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Broomfield,Jefferson,39.885388,-105.11389,CO,80021
+VanderHouwen,FALSE,Other,FALSE,"Broomfield, CO",1,FALSE,FALSE,FALSE,FALSE,FALSE,"All,                    ,                            ,            ",Senior Graphic Designer,Broomfield,Jefferson,39.885388,-105.11389,CO,80021
+BridgeView IT,FALSE,IT,FALSE,"Denver, CO",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Data Engineer,Denver,Denver,39.638537,-104.903984,CO,80237
+"Sphere of Influence, Inc.",FALSE,IT,FALSE,"Lakewood, CO",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer Software,                    ,                ,          ",Software Developer,Denver,Denver,39.638537,-104.903984,CO,80237
+Seagate,FALSE,IT,FALSE,"Longmont, CO",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Hardware,                    ,                ,          ",Staff Data Engineer,Longmont,Boulder,40.087835,-105.373507,CO,80502
+Talus Partners,FALSE,Other,FALSE,"Enfield, CT",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Business Analyst,Enfield,Hartford,41.791776,-72.718832,CT,6083
+Focus Capital Markets,FALSE,IT,FALSE,"Greenwich, CT",1,TRUE,FALSE,FALSE,FALSE,FALSE,"Energy and Utilities; Computer Software; Engineering Services,    ",Data Scientist,Greenwich,Fairfield,41.042746,-73.62617,CT,6830
+Aetna Inc.,TRUE,Other,FALSE,"Hartford, CT",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Lead Healthcare Data Scientist,Hartford,Hartford,41.745049,-72.687787,CT,6106
+WWE Careers,FALSE,Other,TRUE,"Stamford, CT",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,"Manager, Data Scientist",Stamford,Fairfield,41.039147,-73.559118,CT,6910
+WWE,FALSE,Other,TRUE,"Stamford, CT",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,"Manager, Data Scientist",Stamford,Fairfield,41.039147,-73.559118,CT,6910
+Lockheed Martin,FALSE,Other,FALSE,"Trumbull, CT",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist Analyst Stf,Trumbull,Fairfield,41.259996,-73.206957,CT,6611
+Bowhead,FALSE,IT,TRUE,"Washington, DC",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Computer Software,                    ,                ,          ",Web Developer - Senior,Washington,District Of Columbia,38.826163,-77.017448,DC,20375
+Federate Systems Corporation,FALSE,Other,FALSE,"Washington, DC",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,"Systems Architect and Engineer position in Washington, DC !!! US Citizen/ Greencard/ EAD / H1B !!!",Washington,District Of Columbia,38.826163,-77.017448,DC,20375
+Mathmatica Policy Research,FALSE,Other,TRUE,"Washington, DC",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Junior Front-End Data Scientist,Washington,District Of Columbia,38.826163,-77.017448,DC,20375
+AT&T,FALSE,Other,FALSE,"Washington, DC",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Retail,                    ,                ,                    C",Machine Learning Architect,Washington,District Of Columbia,38.826163,-77.017448,DC,20375
+TSCTI,FALSE,Other,FALSE,"Washington, DC",1,FALSE,FALSE,FALSE,TRUE,TRUE,NA,Data Scientist,Washington,District Of Columbia,38.826163,-77.017448,DC,20375
+"Collins Consulting, Inc.",FALSE,IT,FALSE,"Washington, DC",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Data Architect,Washington,District Of Columbia,38.826163,-77.017448,DC,20375
+Alluvion Staffing,TRUE,IT,TRUE,"Jacksonville, FL",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Hadoop Administrator,Jacksonville,Saint Johns,29.877289,-81.561245,FL,32259
+"Publix Super Markets, Inc.",FALSE,Other,FALSE,"Lakeland, FL",1,FALSE,FALSE,TRUE,TRUE,TRUE,"All,                    ,                ,                    Care",Marketing Analytics Consultant - Business Analytics,Lakeland,Polk,27.894389,-81.850798,FL,33803
+"Publix Super Markets, Inc.",FALSE,Other,FALSE,"Lakeland, FL",1,FALSE,FALSE,TRUE,TRUE,TRUE,"All,                    ,                ,                    Care","Data Analyst, Business Analysis & Reporting- Lakeland",Lakeland,Polk,27.894389,-81.850798,FL,33803
+"Publix Super Markets, Inc.",FALSE,Other,FALSE,"Lakeland, FL",1,FALSE,FALSE,TRUE,TRUE,TRUE,"All,                    ,                ,                    Care",Marketing Analytics Consultant - CRM,Lakeland,Polk,27.894389,-81.850798,FL,33803
+Florida International University,FALSE,Other,FALSE,"Miami, FL",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist - School of Hospitality & Tourism Management,Miami,Miami-Dade,25.558428,-80.458168,FL,33102
+Stefanini,FALSE,IT,FALSE,"Tampa, FL",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Data Modeler,Tampa,Hillsborough,27.84343,-82.488413,FL,33608
+Kforce Inc,FALSE,IT,TRUE,"Tampa, FL",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",Data Scientist,Tampa,Hillsborough,27.84343,-82.488413,FL,33608
+Hays,FALSE,IT,FALSE,"Tampa, FL",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Integration Developer,Tampa,Hillsborough,27.84343,-82.488413,FL,33608
+DTCC,FALSE,Other,FALSE,"Tampa, FL",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Sr Data Scientist,Tampa,Hillsborough,27.84343,-82.488413,FL,33608
+PF1 Professional Services,FALSE,Other,FALSE,"Tampa, FL",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Tampa,Hillsborough,27.84343,-82.488413,FL,33608
+Federal Hill Consulting,FALSE,Other,TRUE,"Tampa, FL",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Data Scientist (TS/SCI Required),Tampa,Hillsborough,27.84343,-82.488413,FL,33608
+Verizon Communications,TRUE,Other,FALSE,"Alpharetta, GA",1,TRUE,FALSE,FALSE,TRUE,FALSE,NA,Data Scientist,Alpharetta,Fulton,33.844371,-84.47405,GA,30009
+Ask Staffing,TRUE,Other,FALSE,"Alpharetta, GA",1,TRUE,FALSE,FALSE,FALSE,TRUE,"Other/Not Classified,                    ,                ,       ",Software Engineer,Alpharetta,Fulton,33.844371,-84.47405,GA,30009
+Verizon,TRUE,Other,FALSE,"Alpharetta, GA",1,TRUE,FALSE,FALSE,TRUE,FALSE,NA,Data Scientist,Alpharetta,Fulton,33.844371,-84.47405,GA,30009
+Ask Staffing,TRUE,IT,FALSE,"Alpharetta, GA",1,TRUE,FALSE,FALSE,FALSE,TRUE,Telecommunications Services; Computer Software; Computer/IT Servic,Software Engineer,Alpharetta,Fulton,33.844371,-84.47405,GA,30009
+McKesson,TRUE,Other,TRUE,"Alpharetta, GA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - (Job Number: 17007194),Alpharetta,Fulton,33.844371,-84.47405,GA,30009
+McKesson Corporation,TRUE,Other,TRUE,"Alpharetta, GA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Alpharetta,Fulton,33.844371,-84.47405,GA,30009
+Principle Solutions Group,FALSE,Other,FALSE,"Atlanta, GA",1,FALSE,FALSE,FALSE,TRUE,TRUE,NA,Data Scientist,Atlanta,Fulton,33.61806,-84.550147,GA,30349
+"Aaron's, Inc",FALSE,Other,FALSE,"Atlanta, GA",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,"Sr. Analyst, Data Scientist",Atlanta,Fulton,33.61806,-84.550147,GA,30349
+AT&T,FALSE,Other,FALSE,"Atlanta, GA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Retail,                    ,                ,                    C","Senior, Advanced Analytics, Data Visualization",Atlanta,Fulton,33.61806,-84.550147,GA,30349
+Matlen Silver,FALSE,Financial/Business Services,FALSE,"Atlanta, GA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Management Consulting Services,                    ,              ",SAAS Sales Executive,Atlanta,Fulton,33.61806,-84.550147,GA,30349
+Thompson Technologies,FALSE,Other,TRUE,"Atlanta, GA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Other/Not Classified,                    ,                ,       ",Sr. Back-end Engineer (Ruby),Atlanta,Fulton,33.61806,-84.550147,GA,30349
+Company Confidential,TRUE,IT,FALSE,"Atlanta, GA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                    ,   ",AI Specialist/Trainer,Atlanta,Fulton,33.61806,-84.550147,GA,30349
+Kforce Inc,FALSE,IT,FALSE,"Atlanta, GA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Architect,Atlanta,Fulton,33.61806,-84.550147,GA,30349
+Eclaro,TRUE,Other,TRUE,"Duluth, GA",1,FALSE,TRUE,TRUE,TRUE,TRUE,"Staffing/Employment Agencies,                    ,                ",Data Scientist,Duluth,Gwinnett,33.959535,-84.105011,GA,30099
+"Datahouse Consulting, Inc.",FALSE,Other,TRUE,"Honolulu, HI",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist/Analyst,Honolulu,Honolulu,21.347951,-157.93965,HI,96818
+"InfoWeb Systems, Inc.",FALSE,Other,FALSE,"Cedar Rapids, IA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Web Architect w/Security,Cedar Rapids,Linn,41.919542,-91.704467,IA,52404
+22nd Century Technologies Inc,FALSE,Other,FALSE,"Cedar Rapids, IA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Sr Software Engineer 1,Cedar Rapids,Linn,41.919542,-91.704467,IA,52404
+PDS Tech Inc.,FALSE,IT,FALSE,"Cedar Rapids, IA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer Software,                    ,                ,          ",Sr. Software Engineer,Cedar Rapids,Linn,41.919542,-91.704467,IA,52404
+CyberCoders,FALSE,Other,FALSE,"Davenport, IA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Manufacturing - Other,                    ,                ,      ",Data Scientist,Davenport,Scott,41.497582,-90.623887,IA,52802
+"W.W. Grainger, Inc.",FALSE,Other,FALSE,"Buffalo Grove, IL",1,FALSE,FALSE,FALSE,TRUE,TRUE,NA,"Data Scientist, Zoro US",Buffalo Grove,Lake,42.180411,-87.960771,IL,60089
+Imperial,FALSE,Other,FALSE,"BUFFALO GROVE, IL",1,FALSE,FALSE,FALSE,TRUE,TRUE,NA,"Data Scientist, Zoro US",Buffalo Grove,Lake,42.180411,-87.960771,IL,60089
+Grainger,FALSE,Other,FALSE,"BUFFALO GROVE, IL",1,FALSE,FALSE,FALSE,TRUE,TRUE,NA,"Data Scientist, Zoro US",Buffalo Grove,Lake,42.180411,-87.960771,IL,60089
+"Analytic Recruiting, Inc.",FALSE,Other,FALSE,"Chicago, IL",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+Kemper,FALSE,Other,TRUE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist consultant,Chicago,Cook,41.811929,-87.68732,IL,60601
+Thor Group,FALSE,Healthcare/Biotech,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,TRUE,Management Consulting Services; Healthcare Services; Government an,Clinical Informaticist to Support Federal Govt. Analytics Engagement,Chicago,Cook,41.811929,-87.68732,IL,60601
+CyberCoders,FALSE,IT,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Internet Services,                    ,                ,          ",Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+National Opinion Research Center (NORC),FALSE,Other,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+Allstate,FALSE,Other,TRUE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Arity - Data Scientist-Sr Mgr,Chicago,Cook,41.811929,-87.68732,IL,60601
+CyberCoders,FALSE,Healthcare/Biotech,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Healthcare Services,                    ,                ,        ",Data Scientist - Hyde Park,Chicago,Cook,41.811929,-87.68732,IL,60601
+Fooda,TRUE,Other,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+University of Chicago,FALSE,Other,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+UnitedHealth Group,FALSE,Other,FALSE,"Chicago, IL",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,"Data Scientist (SAS) - Schaumburg, IL , Chicago, IL, or Eden Prairie, MN",Chicago,Cook,41.811929,-87.68732,IL,60601
+Peterson Technology Partners,TRUE,IT,TRUE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                        ",Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+Hub International,FALSE,Other,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+Kemper,FALSE,Other,TRUE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Senior Data Scientist,Chicago,Cook,41.811929,-87.68732,IL,60601
+Michael Page USA,FALSE,IT,FALSE,"Chicago, IL",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Internet Services,                    ,                ,          ",Data Scientist (NPO Startup),Chicago,Cook,41.811929,-87.68732,IL,60601
+Fountain Group,FALSE,IT,FALSE,"Bannockburn, IL",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Marketing Analytics Analyst,Deerfield,Lake,42.178175,-87.866818,IL,60015
+Fountain Group,FALSE,IT,FALSE,"Glencoe, IL",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Marketing Analytics Analyst,Glencoe,Cook,42.102927,-87.815914,IL,60022
+Sears Holdings Corporation,TRUE,Other,FALSE,"Hoffman Estates, IL",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist (Chicago),Hoffman Estates,Cook,42.079336,-88.223655,IL,60179
+Randstad Life Sciences,FALSE,Healthcare/Biotech,FALSE,"North Chicago, IL",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Biotechnology/Pharmaceuticals,                    ,               ",Clinical Operations,North Chicago,Lake,42.347324,-87.962976,IL,60064
+Fountain Group,FALSE,IT,FALSE,"Northbrook, IL",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Marketing Analytics Analyst,Northbrook,Cook,41.811929,-87.68732,IL,60065
+Randstad Technologies,TRUE,IT,TRUE,"Northbrook, IL",1,TRUE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Data Scientist,Northbrook,Cook,41.811929,-87.68732,IL,60065
+Astellas,FALSE,Other,FALSE,"Northbrook, IL",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Associate Biostatistics Director,Northbrook,Cook,41.811929,-87.68732,IL,60065
+Monsanto,FALSE,Other,FALSE,"Urbana, IL",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist-UIUC Innovation Center,Urbana,Champaign,40.074573,-88.169093,IL,61802
+Monsanto,FALSE,Other,FALSE,"Urbana, IL",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Operations Research Data Scientist-UIUC Innovation Center,Urbana,Champaign,40.074573,-88.169093,IL,61802
+Ventana,FALSE,Other,FALSE,"Indianapolis, IN",1,TRUE,FALSE,FALSE,FALSE,FALSE,NA,Senior Commercial Data Scientist- Diabetes Care,Indianapolis,Marion,39.667045,-85.998092,IN,46259
+Solutions Point,FALSE,Other,FALSE,"Topeka, KS",1,FALSE,FALSE,FALSE,TRUE,TRUE,"All,                    ,                    ,            View mor",Report and Analytic Developer,Topeka,Shawnee,38.953556,-95.723636,KS,66619
+Asteri Networks,FALSE,Other,TRUE,"Shreveport, LA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Other/Not Classified,                    ,                ,       ",Director of Technology,Shreveport,Caddo,32.340125,-93.609198,LA,71115
+Asteri Networks,FALSE,Other,TRUE,"Shreveport, LA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Other/Not Classified,                    ,                ,       ",Web Developer,Shreveport,Caddo,32.340125,-93.609198,LA,71115
+Asteri Networks,FALSE,Other,FALSE,"Shreveport, LA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Director of Ad Operations,Shreveport,Caddo,32.340125,-93.609198,LA,71115
+Collab Infotech,FALSE,Other,FALSE,"Andover, MA",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Clinical Data Manager,Andover,Essex,42.635443,-70.879123,MA,1899
+Experis,TRUE,Other,TRUE,"Beverly, MA",1,TRUE,FALSE,TRUE,TRUE,TRUE,"Electronics, Components, and Semiconductor Mfg; Manufacturing - Ot",Machine Learning Specialist,Beverly,Essex,42.565145,-70.853843,MA,1915
+MassMutual Financial Group,TRUE,Other,FALSE,"Boston, MA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Boston,Suffolk,42.286784,-71.071045,MA,2124
+CyberCoders,TRUE,Healthcare/Biotech,TRUE,"Boston, MA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Healthcare Services,                    ,                ,        ","Data Engineer - Healthcare, Critical Thinking, Design Pipelines",Boston,Suffolk,42.286784,-71.071045,MA,2124
+CyberCoders,FALSE,Financial/Business Services,FALSE,"Boston, MA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Accounting and Auditing Services,                    ,            ",Software Engineer - PYTHON,Boston,Suffolk,42.286784,-71.071045,MA,2124
+MassMutual,TRUE,Other,FALSE,"Boston, MA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Boston,Suffolk,42.286784,-71.071045,MA,2124
+"SANTANDER BANK, N.A.",TRUE,Financial/Business Services,FALSE,"Boston, MA",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Banking,                    ,                ,                    ",Sr. Customer Analytics,Boston,Suffolk,42.286784,-71.071045,MA,2124
+"Incendia Partners, Inc.",TRUE,IT,FALSE,"Boston, MA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ","Principal Software Engineer (Java, Python or Scala) - up to $100 per hour / 145k full time",Boston,Suffolk,42.286784,-71.071045,MA,2124
+SNI Technology,FALSE,IT,TRUE,"Boston, MA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Internet Services,                    ,                ,          ",Data Scientist,Boston,Suffolk,42.286784,-71.071045,MA,2124
+CyberCoders,TRUE,Healthcare/Biotech,FALSE,"Boston, MA",1,FALSE,TRUE,TRUE,TRUE,TRUE,"Healthcare Services,                    ,                ,        ","Data Scientist - Python, Machine Learning, Social Science",Boston,Suffolk,42.286784,-71.071045,MA,2124
+kununu US,FALSE,IT,FALSE,"Boston, MA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Internet Services,                    ,                ,          ",Strategic Business Analyst,Boston,Suffolk,42.286784,-71.071045,MA,2124
+Hollister Staffing,FALSE,IT,TRUE,"Boston, MA",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Data Scientist,Boston,Suffolk,42.286784,-71.071045,MA,2124
+McKinsey,FALSE,Other,FALSE,"Boston, MA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - QuantumBlack,Boston,Suffolk,42.286784,-71.071045,MA,2124
+Roberts Recruiting,FALSE,Other,FALSE,"Boston, MA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Senior Data Scientist,Boston,Suffolk,42.286784,-71.071045,MA,2124
+CyberCoders,FALSE,Financial/Business Services,FALSE,"Boston, MA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Accounting and Auditing Services,                    ,            ",Python - Pandas - NumPy Engineer,Boston,Suffolk,42.286784,-71.071045,MA,2124
+SNI Technology,FALSE,IT,FALSE,"Cambridge, MA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Internet Services,                    ,                ,          ",Data Scientist,Cambridge,Middlesex,42.36284,-71.084814,MA,2142
+Massachusetts Institute of Technology,FALSE,Other,TRUE,"Cambridge, MA",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Research Associate,Cambridge,Middlesex,42.36284,-71.084814,MA,2142
+Massachusetts Institute of Technology,FALSE,Other,TRUE,"Cambridge, MA",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Software Engineer,Cambridge,Middlesex,42.36284,-71.084814,MA,2142
+Biogen Idec Inc,FALSE,Other,FALSE,"Cambridge, MA",1,FALSE,FALSE,FALSE,TRUE,TRUE,NA,"Sr. Data Scientist, CORA",Cambridge,Middlesex,42.36284,-71.084814,MA,2142
+The Bivium Group,FALSE,IT,FALSE,"Cambridge, MA",1,TRUE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Data Scientist - very small and very profitable super cool nerdy company,Cambridge,Middlesex,42.36284,-71.084814,MA,2142
+Hollister Staffing,FALSE,Healthcare/Biotech,FALSE,"Cambridge, MA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Healthcare Services; Computer/IT Services,                    ,   ",Data Scientist,Cambridge,Middlesex,42.36284,-71.084814,MA,2142
+SolarWinds,TRUE,Other,TRUE,"Cambridge, MA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Cambridge,Middlesex,42.36284,-71.084814,MA,2142
+AGFA NV,FALSE,IT,TRUE,"Canton, US, 02021",1,TRUE,FALSE,TRUE,TRUE,FALSE,Computer Software; Healthcare Services; Medical Devices and Suppli,Senior Software Engineer - Analytics,Canton,Norfolk,42.179146,-71.121185,MA,2021
+Kforce Inc,TRUE,IT,TRUE,"Framingham, MA",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Data Scientist,Framingham,Middlesex,42.446396,-71.459405,MA,1701
+Zillion Technologies Inc,TRUE,IT,TRUE,"Framingham, MA",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                    ,   ",Data Scientist,Framingham,Middlesex,42.446396,-71.459405,MA,1701
+Kforce Inc,FALSE,IT,FALSE,"Framingham, MA",1,TRUE,FALSE,FALSE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",Senior Associate Scientist,Framingham,Middlesex,42.446396,-71.459405,MA,1701
+"AngioDynamics, Inc.",FALSE,Other,FALSE,"Marlborough, MA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Marlborough,Middlesex,42.446396,-71.459405,MA,1752
+"Real Soft, Inc.",FALSE,IT,FALSE,"Marlborough, MA",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Computer/IT Services,                    ,                        ",Pharmaceutical System Analyst,Marlborough,Middlesex,42.446396,-71.459405,MA,1752
+"AngioDynamics, Inc",FALSE,Other,FALSE,"Marlborough, MA",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Data Scientist,Marlborough,Middlesex,42.446396,-71.459405,MA,1752
+Tufts School of Engineering,FALSE,Other,FALSE,"Medford, MA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,"Part-time Lecturer, Engineering Management and Innovation Management",Medford,Middlesex,42.422095,-71.109297,MA,2155
+CyberCoders,FALSE,Financial/Business Services,FALSE,"Medford, MA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Management Consulting Services,                    ,              ",Data Scientist heavy Data Engineering,Medford,Middlesex,42.422095,-71.109297,MA,2155
+Wolters Kluwer,FALSE,Other,FALSE,"Waltham, MA",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Applied Data Scientist,Waltham,Middlesex,42.356719,-71.250479,MA,2454
+Aetna,FALSE,Other,FALSE,"Wellesley, MA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Sr Data Scientist,Wellesley,Norfolk,42.294546,-71.299201,MA,2482
+SAIC,FALSE,Other,FALSE,"Aberdeen, MD",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,"Sr. Data Scientist Job (Aberdeen, MD, US)",Aberdeen,Harford,39.499909,-76.231177,MD,21001
+Accenture Inc,FALSE,Other,FALSE,"Annapolis Junction, MD",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Federal - Data Scientist Manager,Annapolis Junction,Howard,39.1332,-76.798843,MD,20701
+Accenture,FALSE,Other,FALSE,"Annapolis Junction, MD",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Federal - Data Scientist,Annapolis Junction,Howard,39.1332,-76.798843,MD,20701
+Accenture,FALSE,Other,FALSE,"Annapolis Junction, MD",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Federal - Data Scientist,Annapolis Junction,Howard,39.1332,-76.798843,MD,20701
+"Websense, Inc.",FALSE,Other,FALSE,"Baltimore, MD",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Sr. Data Scientist,Baltimore,Anne Arundel,39.142793,-76.651589,MD,21240
+Websense,FALSE,Other,FALSE,"Baltimore, MD",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,"Sr. Data Scientist - Baltimore, MD",Baltimore,Anne Arundel,39.142793,-76.651589,MD,21240
+"Analytic Recruiting, Inc.",FALSE,Other,FALSE,"Bethesda, MD",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Bethesda,Montgomery,38.955907,-77.1165,MD,20816
+Abt Associates,FALSE,Other,FALSE,"Bethesda, MD",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Business Systems Analyst,Bethesda,Montgomery,38.955907,-77.1165,MD,20816
+"Bluemont Technology & Research, Inc.",FALSE,IT,FALSE,"College Park, MD",1,TRUE,FALSE,FALSE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Cyber Defense Scientist/Mathematician,College Park,Prince Georges,38.833563,-76.877743,MD,20741
+"IMPAQ International, LLC",FALSE,Other,TRUE,"Columbia, MD",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist - Python,Columbia,Howard,39.175406,-76.834945,MD,21046
+Johns Hopkins Applied Physics Laboratory,TRUE,Other,FALSE,"Laurel, MD",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Laurel,Prince Georges,38.833563,-76.877743,MD,20709
+CyberCoders,TRUE,Other,FALSE,"Lexington Park, MD",1,TRUE,FALSE,TRUE,FALSE,FALSE,"Government and Military,                    ,                ,    ","Data Scientist Principal Engineer -SciPy, R, Python",Lexington Park,Saint Marys,38.232909,-76.430853,MD,20653
+"MacAulay-Brown, Inc.",TRUE,Other,FALSE,"Linthicum Heights, MD",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Linthicum Heights,Anne Arundel,39.068309,-76.631743,MD,21090
+ADMEX Corporation,FALSE,IT,FALSE,"Silver Spring, MD",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",Administrative Assistant,Silver Spring,Montgomery,39.003109,-77.029648,MD,20910
+Amdex Corporation,FALSE,Other,FALSE,"Silver Hill, MD",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,IT Project Management Specialist,Suitland,Prince Georges,38.833563,-76.877743,MD,20752
+King,TRUE,Other,TRUE,"Stockholm, ME",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - New Games,Stockholm,Aroostook,46.787807,-68.155212,ME,4783
+King,TRUE,Other,TRUE,"Stockholm, ME",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - Live Games,Stockholm,Aroostook,46.787807,-68.155212,ME,4783
+Platform Staffing Group,FALSE,Other,FALSE,"Battle Creek, MI",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Battle Creek,Calhoun,42.219313,-85.229238,MI,49015
+Ford Motor Company,FALSE,Other,FALSE,"Dearborn, MI",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Data Scientist,Dearborn,Wayne,42.239933,-83.150823,MI,48121
+The Bartech Group,TRUE,Other,FALSE,"Dearborn, MI",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Automotive and Parts Mfg,                    ,                ,   ",Data Analyst,Dearborn,Wayne,42.239933,-83.150823,MI,48121
+Ford Motor Company,TRUE,Other,FALSE,"Dearborn, MI",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Automotive and Parts Mfg,                    ,                    ",Data Scientist,Dearborn,Wayne,42.239933,-83.150823,MI,48121
+Epitec,TRUE,Other,FALSE,"Dearborn, MI",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Data Scientist,Dearborn,Wayne,42.239933,-83.150823,MI,48121
+Gtech Services,TRUE,Other,TRUE,"Dearborn, MI",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Quantitative Analyst / Data Scientist,Dearborn,Wayne,42.239933,-83.150823,MI,48121
+Ford Motor Company,FALSE,Other,FALSE,"Dearborn, MI",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Automotive and Parts Mfg,                    ,                ,   ",Leader- People Analytics,Dearborn,Wayne,42.239933,-83.150823,MI,48121
+Whiteline Express,FALSE,Other,FALSE,"Detroit, MI",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Business/Data Analyst,Detroit,Wayne,42.216575,-83.35324,MI,48242
+BCBSM,FALSE,Healthcare/Biotech,FALSE,"Detroit, MI",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Insurance; Healthcare Services,                    ,              ",IBU Finance and Actuarial Manager,Detroit,Wayne,42.216575,-83.35324,MI,48242
+Cynet Systems Inc,TRUE,Other,TRUE,"Detroit, MI",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Machine Learning / Data Scientist / Computer Vision / IOT Architect - Direct Hire / Full Time / Perm,Detroit,Wayne,42.216575,-83.35324,MI,48242
+Whiteline Express,FALSE,Other,FALSE,"Plymouth, MI",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Business/Data Analyst,Plymouth,Wayne,42.366737,-83.489679,MI,48170
+Eaton Corporation,TRUE,Other,TRUE,"Southfield, MI",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Senior Data Scientist - Power System Analytics,Southfield,Oakland,42.462215,-83.230578,MI,48075
+Eaton,TRUE,Other,TRUE,"Southfield, MI",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist - Power System Analytics,Southfield,Oakland,42.462215,-83.230578,MI,48075
+Eaton Corporation,TRUE,Other,TRUE,"Southfield, MI",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist - Power System Analytics,Southfield,Oakland,42.462215,-83.230578,MI,48075
+TalentPool Search Inc.,FALSE,Other,FALSE,"Troy, MI",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Strategic Business Analyst,Troy,Oakland,42.554751,-83.17688,MI,48084
+United Health Group,TRUE,Other,FALSE,"Eden Prairie, MN",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,"Principal Data Scientist - Eden Prairie, MN or Telecommute",Eden Prairie,Hennepin,44.841713,-93.459829,MN,55347
+Pinnacol,FALSE,Other,FALSE,"Lowry, MN",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Sr Data Scientist,Lowry,Pope,45.715846,-95.540402,MN,56349
+Brooksource,TRUE,IT,FALSE,"Minneapolis, MN",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Retail; Computer/IT Services,                    ,                ",Data Engineer - Hadoop Operations,Minneapolis,Carver,44.805487,-93.766524,MN,55473
+"Data Sciences International,Inc",FALSE,Other,FALSE,"Saint Paul, MN",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Manufacturing - Other,                    ,                ,      ",Senior Product Manager - Data Platform,Saint Paul,Dakota,44.749701,-93.202881,MN,55124
+CyberCoders,FALSE,Financial/Business Services,FALSE,"Stewartville, MA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Management Consulting Services,                    ,              ",Data Scientist heavy Data Engineering,Stewartville,Olmsted,43.884346,-92.503744,MN,55976
+"Iconma, L.L.C.",FALSE,Other,FALSE,"Chesterfield, MO",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Chesterfield,Saint Louis,38.637002,-90.650024,MO,63005
+Hunter International Inc,FALSE,Healthcare/Biotech,FALSE,"Chesterfield, MO",1,FALSE,FALSE,TRUE,TRUE,TRUE,Agriculture/Forestry/Fishing; Biotechnology/Pharmaceuticals; Chemi,Business Analyst,Chesterfield,Saint Louis,38.637002,-90.650024,MO,63005
+Spring Venture Group,FALSE,Other,FALSE,"Kansas City, MO",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Data Scientist,Kansas City,Jackson,38.854895,-94.556782,MO,64147
+Genesis10,FALSE,IT,FALSE,"Kansas City, MO",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Data Scientist III,Kansas City,Jackson,38.854895,-94.556782,MO,64147
+Conperio Technology Solutions,TRUE,IT,FALSE,"Saint Louis, MO",1,FALSE,FALSE,FALSE,FALSE,TRUE,Consumer Packaged Goods Manufacturing; Computer Software; Computer,Business Analyst/Data Analyst,Saint Louis,Saint Louis,38.456553,-90.328212,MO,63129
+Eclaro,FALSE,Other,FALSE,"St. Louis, MO",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Staffing/Employment Agencies,                    ,                ",Data Scientist III for Quality Outcomes,Saint Louis,Saint Louis,38.456553,-90.328212,MO,63129
+The Climate Corporation,FALSE,Other,TRUE,"Saint Louis, MO",1,TRUE,TRUE,TRUE,TRUE,TRUE,NA,"Intern: Data Scientist, Analytics",Saint Louis,Saint Louis,38.456553,-90.328212,MO,63129
+IBM,FALSE,Other,FALSE,"Springfield, MO",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Advanced Analytics Data Scientist,Springfield,Greene,37.122249,-93.31318,MO,65810
+"General Dynamics Information Technology, Inc.",FALSE,Other,FALSE,"Camp Lejeune, NC",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Data Scientist I,Camp Lejeune,Onslow,34.664035,-77.463687,NC,28542
+Kforce Inc,TRUE,IT,FALSE,"Charlotte, NC",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Junior Hadoop Developer / Data Scientist,Charlotte,Mecklenburg,35.055216,-80.819488,NC,28277
+Brighthouse Financial,FALSE,Other,FALSE,"Charlotte, NC",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Senior Data Scientist - Brighthouse Financial,Charlotte,Mecklenburg,35.055216,-80.819488,NC,28277
+"MetLife, Inc.",FALSE,Other,FALSE,"Charlotte, NC",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Senior Data Scientist - Brighthouse Financial,Charlotte,Mecklenburg,35.055216,-80.819488,NC,28277
+Principle Solutions Group,FALSE,Other,FALSE,"Charlotte, NC",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Associate Data Scientist,Charlotte,Mecklenburg,35.055216,-80.819488,NC,28277
+Bank of America,TRUE,Other,TRUE,"Charlotte, NC",1,FALSE,TRUE,TRUE,TRUE,TRUE,NA,Hadoop Data Scientist,Charlotte,Mecklenburg,35.055216,-80.819488,NC,28277
+Integrity Consulting,FALSE,Other,FALSE,"Durham, NC",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Science Manager,Durham,Durham,35.911215,-78.917768,NC,27713
+VF Corporation,FALSE,Other,FALSE,"Greensboro VF  Corporate Headquarters - USA, NC",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,"Data Scientist, Retail Analytics",Greensboro,Guilford,35.991647,-79.759794,NC,27406
+Maxpoint Interactive,TRUE,Other,FALSE,"Morrisville, NC",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Principal Data Scientist - Machine Learning,Morrisville,Wake,35.852458,-78.843526,NC,27560
+Red Hat,FALSE,Other,FALSE,"Raleigh, NC",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist Internship,Raleigh,Wake,35.689086,-78.675118,NC,27603
+Hays,FALSE,IT,FALSE,"Raleigh, NC",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Computer Software; Computer/IT Services,                    ,     ",Data Scientist,Raleigh,Wake,35.689086,-78.675118,NC,27603
+Matrix Resources,FALSE,Other,FALSE,"Raleigh, NC",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Staffing/Employment Agencies,                    ,                ",Sr. Data Engineer,Raleigh,Wake,35.689086,-78.675118,NC,27603
+North Carolina State Univ.,FALSE,Other,FALSE,"Raleigh, Raleigh, Raleigh",1,TRUE,FALSE,FALSE,FALSE,FALSE,"Education,                    ,                            ,      ","Assistant, Associate, or Full Professor",Raleigh,Wake,35.689086,-78.675118,NC,27603
+Voith Holding Inc,TRUE,Other,FALSE,"Wilson, NC",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Manufacturing - Other,                    ,                ,      ",Cloud Developer,Wilson,Wilson,35.715778,-77.904283,NC,27894
+King,TRUE,Other,TRUE,"Berlin, NH",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist (m/f),Berlin,Coos,44.512344,-71.194226,NH,3570
+Oracle,TRUE,Other,FALSE,"Hanover, NH",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist-170016OJ,Hanover,Grafton,43.861077,-72.120314,NH,3755
+C&G Consulting,FALSE,Other,FALSE,"Cedar Knolls, NJ",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,VP Analytics,Cedar Knolls,Morris,40.820799,-74.456198,NJ,7927
+"ReqRoute,Inc",TRUE,Other,TRUE,"Edison, NJ",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,"Data Scientist Senior Consultant - Edison, NJ",Edison,Middlesex,40.430006,-74.417344,NJ,8818
+ApTask,TRUE,Other,FALSE,"Hoboken, NJ",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Hoboken,Hudson,40.746851,-74.033934,NJ,7030
+JPMorgan Chase & Co.,FALSE,Other,FALSE,"Jersey City, NJ",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Corporate HR- Workforce Analytics- Data Scientist,Jersey City,Hudson,40.696661,-74.081135,NJ,7305
+Primary Search Management,FALSE,Other,FALSE,"Jersey City, NJ",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Senior Cloud Architect,Jersey City,Hudson,40.696661,-74.081135,NJ,7305
+Company Confidential,FALSE,Other,FALSE,"Mahwah, NJ",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Lead Data Scientist,Mahwah,Bergen,40.948054,-74.083231,NJ,7495
+UPS,FALSE,Other,FALSE,"Mahwah, NJ",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Transport and Storage - Materials ,                    ,          ",UPS Lead Data Scientist,Mahwah,Bergen,40.948054,-74.083231,NJ,7495
+ASRC Federal Holding Company LLC,FALSE,Other,FALSE,"Moorestown, NJ",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Other/Not Classified,                    ,                ,       ",Sr Algorithm/Data Scientist,Moorestown,Burlington,40.054255,-74.840115,NJ,8057
+"Harvey Nash, Inc",TRUE,Other,FALSE,"Parsippany, NJ",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Sr. Manager of Data Science & Marketing Technology,Parsippany,Morris,40.852118,-74.407706,NJ,7054
+Eclaro,FALSE,Other,FALSE,"Pennington, NJ",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Staffing/Employment Agencies,                    ,                ",Data Scientist Consultant,Pennington,Mercer,40.32863,-74.813557,NJ,8534
+"Itlize Global, LLC",FALSE,IT,FALSE,"Piscataway, NJ",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Entry Level Business Intelligence &Data Science Developer,Piscataway,Middlesex,40.430006,-74.417344,NJ,8855
+"Itlize Global, LLC",FALSE,IT,TRUE,"Piscataway, NJ",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Entry level software engineer- JAVA/.Net Developer,Piscataway,Middlesex,40.430006,-74.417344,NJ,8855
+"Hired by Matrix, Inc.",FALSE,IT,FALSE,"Short Hills, NJ",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Data Scientist,Short Hills,Essex,40.74055,-74.334443,NJ,7078
+"Hired by Matrix, Inc.",FALSE,Other,FALSE,"Union, NJ",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Retail,                    ,                ,                    E",Data Scientist,Union,Union,40.692651,-74.269841,NJ,7083
+Project One,FALSE,IT,FALSE,"Union, NJ",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                        ",Data Scientist - Retail / eCommerce,Union,Union,40.692651,-74.269841,NJ,7083
+NTT DATA Services,FALSE,IT,FALSE,"Whitehouse Station, NJ",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Big Data / Data Scientist Analyst / NJ OR PA / R Modeling,Whitehouse Station,Hunterdon,40.615577,-74.772376,NJ,8889
+NTT DATA Services,FALSE,IT,FALSE,"Whitehouse Station, NJ",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Big Data / Data Scientist Analyst / NJ OR PA / R Modeling,Whitehouse Station,Hunterdon,40.615577,-74.772376,NJ,8889
+Excelsior College,FALSE,Other,FALSE,"Albany, NY",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Education,                    ,                ,                  ","Assistant Director, Analytics and Decision Support**",Albany,Albany,42.614852,-73.970812,NY,12201
+Superior Group,TRUE,IT,FALSE,"Buffalo, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Software Engineer,Buffalo,Erie,42.75495,-78.784908,NY,14273
+Company Confidential,TRUE,IT,FALSE,"Jericho, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Scientist-SAS Predictive Modelling,Jericho,Nassau,40.754757,-73.601772,NY,11753
+"SVAM International, Inc.",TRUE,Other,FALSE,"jericho, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Data Scientist,Jericho,Nassau,40.754757,-73.601772,NY,11753
+"EDI Specialists, Inc.",FALSE,Other,FALSE,"Lansing, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Other/Not Classified,                    ,                ,       ",Business Intelligence Analyst,Lansing,Tompkins,42.573453,-76.552378,NY,14882
+"comScore, Inc.",FALSE,Other,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+DayNine,TRUE,Other,TRUE,"Northeast, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Federal - Data Scientist Manager,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,Financial/Business Services,FALSE,"New York City, NY",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Accounting and Auditing Services,                    ,            ",Quantitative Research Scientist - Alternative Data,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,IT,FALSE,"New York City, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Internet Services,                    ,                ,          ",Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+Roku,FALSE,Other,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,IT,FALSE,"New York City, NY",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",VP of Engineering needed for a growing startup! 150K+,New York,New York,40.696355,-74.025276,NY,10004
+Dotdash,FALSE,Other,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Senior Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+TierPM,TRUE,Other,FALSE,"Manhattan, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Electronics, Components, and Semiconductor Mfg; Telecommunications",Big Data Hadoop Scientist,New York,New York,40.696355,-74.025276,NY,10004
+DayNine,TRUE,Other,TRUE,"Northeast, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Federal - Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,IT,FALSE,"New York City, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ","Full Stack Engineer - React Native, IOS, SWIFT",New York,New York,40.696355,-74.025276,NY,10004
+"Analytic Recruiting, Inc.",FALSE,Other,FALSE,"New York, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,"Digital CRM Analytics, Associate",New York,New York,40.696355,-74.025276,NY,10004
+Capital Markets Placement,FALSE,Other,FALSE,"New York City, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Technical Writer,New York,New York,40.696355,-74.025276,NY,10004
+About.com,FALSE,Other,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Senior Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+MResult Corp,FALSE,Other,FALSE,"New York City, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Executive Assistant,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,IT,FALSE,"Manhattan, NY",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",VP of Engineering needed for a growing startup! 150K+,New York,New York,40.696355,-74.025276,NY,10004
+DayNine,TRUE,Other,TRUE,"Northeast, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Federal - Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+GS Global Services Inc.,TRUE,Other,FALSE,"Manhattan, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,data science/ data analyst,New York,New York,40.696355,-74.025276,NY,10004
+Howard Systems International,FALSE,Other,FALSE,"Manhattan, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,"Director, Fraud and Analytics",New York,New York,40.696355,-74.025276,NY,10004
+Columbia University,FALSE,Other,FALSE,"Manhattan, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Education,                    ,                    ,    ",Executive Director of Strategic Communications and Media Relations,New York,New York,40.696355,-74.025276,NY,10004
+MResult Corp,FALSE,Other,TRUE,"Manhattan, NY",1,TRUE,FALSE,FALSE,TRUE,FALSE,NA,Quantitative Developer,New York,New York,40.696355,-74.025276,NY,10004
+Kforce Inc,TRUE,IT,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",Senior Data Engineer - Python / Healthcare Startup,New York,New York,40.696355,-74.025276,NY,10004
+Solomon Page,TRUE,IT,TRUE,"New York, NY",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer Software; Computer/IT Services,                    ,     ",Data Engineer,New York,New York,40.696355,-74.025276,NY,10004
+KPMG,FALSE,Other,FALSE,"New York, NY",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Senior Associate - Cognitive Data Scientist Natural Language Processing,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,IT,FALSE,"Manhattan, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer Software,                    ,                ,          ",Full Stack .NET Developer - Angular - Up to $165k,New York,New York,40.696355,-74.025276,NY,10004
+AT&T,TRUE,Other,TRUE,"New York, NY",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Retail,                    ,                ,                    C",Senior-Inventive Scientist (Labs- Big Data Research),New York,New York,40.696355,-74.025276,NY,10004
+Eclaro,TRUE,Other,FALSE,"NEW YORK, NY",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Energy and Utilities,                    ,                ,       ",Python Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+Ergo Interactive,FALSE,Financial/Business Services,FALSE,"New York City, NY",1,FALSE,TRUE,TRUE,FALSE,TRUE,Internet Services; Business Services - Other; Computer/IT Services,Senior Marketing Data Analyst,New York,New York,40.696355,-74.025276,NY,10004
+Kforce Inc,TRUE,IT,FALSE,"New York, NY",1,TRUE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Scientist/Statistical Modeler-Media Mix Model,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,TRUE,IT,TRUE,"New York City, NY",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Internet Services,                    ,                ,          ",Senior Data Engineer,New York,New York,40.696355,-74.025276,NY,10004
+Randstad Technologies,FALSE,IT,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Analytics Specialist,New York,New York,40.696355,-74.025276,NY,10004
+Kforce Inc,FALSE,Financial/Business Services,FALSE,"New York, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Accounting and Auditing Services,                    ,            ",Business Analyst - Data Analytics,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,IT,FALSE,"New York City, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer Software,                    ,                ,          ",VERY URGENT contract-to-hire iOS Engineer (AR/VR/3D) needed!,New York,New York,40.696355,-74.025276,NY,10004
+TSR Consulting,TRUE,Other,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+"Analytic Recruiting, Inc.",TRUE,Other,FALSE,"New York, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+Eclaro,TRUE,Other,FALSE,"Georgia, NY",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Staffing/Employment Agencies,                    ,                ",Business Data Architect,New York,New York,40.696355,-74.025276,NY,10004
+CyberCoders,FALSE,IT,FALSE,"Manhattan, NY",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ","Backend Engineer - Python, Django, APIs",New York,New York,40.696355,-74.025276,NY,10004
+"Brains Workgroup, Inc.",FALSE,IT,FALSE,"New York City, NY",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",EXECUTIVE DIRECTOR OF OPERATIONS,New York,New York,40.696355,-74.025276,NY,10004
+Aetna Inc.,TRUE,Other,FALSE,"New York, NY",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Lead Healthcare Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+Advance Consulting,FALSE,Financial/Business Services,TRUE,"New York, NY",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Financial Services,                    ,                    ,     ",Lead Quant Developer,New York,New York,40.696355,-74.025276,NY,10004
+"Coventry Health Care, Inc.",TRUE,Other,FALSE,"New York, NY",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Lead Healthcare Data Scientist,New York,New York,40.696355,-74.025276,NY,10004
+Lockheed Martin,TRUE,Other,TRUE,"Rochester, NY",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Senior Data Scientist,Rochester,Monroe,43.082184,-77.649074,NY,14623
+Lockheed Martin,TRUE,Other,TRUE,"Rochester, NY",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Rochester,Monroe,43.082184,-77.649074,NY,14623
+Goodyear,FALSE,Other,FALSE,"Akron, OH",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - Engineer Staff,Akron,Summit,40.978755,-81.524376,OH,44319
+Principle Solutions Group,FALSE,Other,FALSE,"Cincinnati, OH",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Cincinnati,Brown,38.946921,-83.862877,OH,45275
+CGI,TRUE,IT,TRUE,"Cleveland, OH",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Computer Software; Computer/IT Services; Financial Services,      ",Big Data Architect,Cleveland,Cuyahoga,41.381701,-81.726551,OH,44134
+JPMorgan Chase & Co.,FALSE,Financial/Business Services,FALSE,"Columbus, OH",1,TRUE,FALSE,FALSE,TRUE,TRUE,"Banking,                    ,                ,                    ",Assoc. Strategic Analytics,Columbus,Franklin,39.827675,-82.934198,OH,43217
+Cardinal Health,TRUE,IT,FALSE,"Columbus, OH",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ","Advisor, Data Analytics",Columbus,Franklin,39.827675,-82.934198,OH,43217
+Altamira Technologies Corporation,TRUE,Other,TRUE,"Fairborn, OH",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Junior Software Developer,Fairborn,Greene,39.728549,-84.014834,OH,45324
+Altamira Technologies,TRUE,Other,TRUE,"Fairborn, OH",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Senior Software Developer,Fairborn,Greene,39.728549,-84.014834,OH,45324
+VanderHouwen,FALSE,Other,TRUE,"beaverton, OR",1,FALSE,FALSE,FALSE,FALSE,TRUE,"All,                    ,                            ,            ",Data Engineer,Beaverton,Washington,45.450489,-122.865171,OR,97007
+VanderHouwen,TRUE,Other,TRUE,"beaverton, OR",1,FALSE,FALSE,TRUE,TRUE,TRUE,"All,                    ,                            ,            ",Senior Big Data / Data Science Developer,Beaverton,Washington,45.450489,-122.865171,OR,97007
+"BizTek People, Inc.",FALSE,IT,FALSE,"Beaverton, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",Data Design & Architecture,Beaverton,Washington,45.450489,-122.865171,OR,97007
+Fountain Group,FALSE,IT,FALSE,"Corvallis, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Embedded Validation Analyst,Corvallis,Benton,44.467218,-123.337762,OR,97333
+Fountain Group,FALSE,IT,FALSE,"Corvallis, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Wearable Technology Engineer,Corvallis,Benton,44.467218,-123.337762,OR,97333
+Fountain Group,FALSE,IT,FALSE,"Fir Grove, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Embedded Validation Analyst,Eugene,Lane,43.863845,-122.99879,OR,97440
+Fountain Group,FALSE,IT,FALSE,"Fir Grove, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Wearable Technology Engineer,Eugene,Lane,43.863845,-122.99879,OR,97440
+Tech Mahindra Limited,TRUE,IT,FALSE,"Orenco, OR",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Internet Services,                    ,                ,          ",Data Analyst,Hillsboro,Washington,45.458397,-122.977963,OR,97123
+Fountain Group,FALSE,IT,FALSE,"Orenco, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Embedded Validation Analyst,Hillsboro,Washington,45.458397,-122.977963,OR,97123
+Fountain Group,FALSE,IT,FALSE,"Orenco, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Embedded Validation Analyst  - Wearable Technology,Hillsboro,Washington,45.458397,-122.977963,OR,97123
+Fountain Group,FALSE,IT,FALSE,"Orenco, OR",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Wearable Technology Engineer,Hillsboro,Washington,45.458397,-122.977963,OR,97123
+"NIKE, Inc.",FALSE,Other,FALSE,"Portland, OR",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist- Advanced Analytics-N. America Analytics,Portland,Clackamas,45.173284,-122.259861,OR,97268
+InfoGroup Northwest,FALSE,IT,TRUE,"Portland, Portland, Portland",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer/IT Services,                    ,                ,       ",Back-end Insights Engineer,Portland,Clackamas,45.173284,-122.259861,OR,97268
+CAROL HARRIS STAFFING,FALSE,Other,FALSE,"CHESWICK, PA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Staffing/Employment Agencies,                    ,                ",DATA COLLECTION SPECIALIST,Cheswick,Allegheny,40.434436,-80.024817,PA,15024
+Geisinger Health System,FALSE,Other,TRUE,"Danville, PA",1,FALSE,TRUE,TRUE,FALSE,FALSE,NA,DATA SCIENTIST-MS,Danville,Montour,40.967437,-76.604896,PA,17822
+CyberCoders,TRUE,Other,FALSE,"Plymouth Valley, PA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Energy and Utilities,                    ,                ,       ",Data Engineer,Norristown,Chester,39.983153,-75.748055,PA,19488
+Juno Search Partners,TRUE,Other,FALSE,"Philadelphia, PA",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Data Scientist,Philadelphia,Delaware,39.869958,-75.277458,PA,19113
+UPMC Presbyterian Shadyside,FALSE,Healthcare/Biotech,FALSE,"Pittsburgh, PA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Healthcare Services,                    ,                ,        ","Senior Product Manager, NLP (Natural Language Processing) Core Department",Pittsburgh,Allegheny,40.328598,-79.949182,PA,15202
+Piper Enterprise Solutions,FALSE,IT,FALSE,"Plymouth Meeting, PA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Data Scientist,Plymouth Meeting,Montgomery,40.137759,-75.352751,PA,19462
+CyberCoders,TRUE,Other,FALSE,"Plymouth Meeting, PA",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Energy and Utilities,                    ,                ,       ",Data Engineer,Plymouth Meeting,Montgomery,40.137759,-75.352751,PA,19462
+GDA Corp.,FALSE,IT,FALSE,"State College, PA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Software,                    ,                    ,    ",Data Modeler / Programmer,State College,Centre,40.878721,-77.757999,PA,16803
+Pinnacle Group,FALSE,Other,FALSE,"Radnor, PA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Manufacturing - Other,                    ,                    ,  ",Data Scientist III - 1912187470,Wayne,Delaware,39.934047,-75.405987,PA,19088
+E-Primary,TRUE,IT,TRUE,"Radnor, PA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                    ,   ",Data Scientist,Wayne,Delaware,39.934047,-75.405987,PA,19088
+Talus Partners,TRUE,Other,TRUE,"Providence, RI",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Sr. Technical Manager / Data Engineer,Providence,Providence,41.797065,-71.425501,RI,2907
+CVS,FALSE,Other,FALSE,"Woonsocket, RI",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,SR. MANAGER OF DATA SCIENCE,Woonsocket,Providence,41.984598,-71.51939,RI,2895
+System Soft Technologies,FALSE,Other,FALSE,"Charleston, SC",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,IT Account Manager,Charleston,Charleston,32.717954,-79.953725,SC,29412
+Matrix Resources,FALSE,Other,FALSE,"Fort Mill, SC",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Staffing/Employment Agencies,                    ,                ",Data Scientist III,Fort Mill,York,34.987625,-81.155211,SC,29715
+AppleOne,FALSE,Other,FALSE,"Summerville, SC",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Other/Not Classified,                    ,                ,       ",Enterprise Data Manager,Summerville,Dorchester,32.999726,-80.329328,SC,29485
+Randstad,FALSE,IT,FALSE,"Summerville, SC",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",Data Manager,Summerville,Dorchester,32.999726,-80.329328,SC,29485
+Dakota State University,FALSE,Other,FALSE,"Madison, SD",1,TRUE,FALSE,FALSE,FALSE,FALSE,"Education,                    ,                    ,    ",Faculty,Madison,Lake,44.054223,-97.091339,SD,57042
+Vaco - Nashville,FALSE,IT,FALSE,"Brentwood, TN",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer/IT Services,                    ,                        ",BI Developer,Brentwood,Williamson,35.874553,-86.907565,TN,37024
+Metadata Technology North America,FALSE,IT,TRUE,"Knoxville, TN",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Computer/IT Services,                    ,                    ,   ",Java Developer,Knoxville,Knox,35.858018,-84.119383,TN,37922
+Prudent Technologies and Consulting,FALSE,Financial/Business Services,FALSE,"Abilene, TX",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Management Consulting Services,                    ,              ",Business Intelligence Analyst,Abilene,Taylor,32.302132,-99.890737,TX,79608
+"Molecular Rebar Design, LLC",FALSE,Other,FALSE,"Austin, TX",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Other/Not Classified,                    ,                ,       ",Senior Reporting Analyst,Austin,Travis,30.120427,-97.743317,TX,78747
+DELL,FALSE,Other,FALSE,"Austin, TX",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,"Data Scientist - Austin, TX",Austin,Travis,30.120427,-97.743317,TX,78747
+The Advisory Board Company,FALSE,Other,FALSE,"Austin, TX",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,"Data Scientist, Healthcare (Starting Summer 2018)",Austin,Travis,30.120427,-97.743317,TX,78747
+Kforce Inc,FALSE,IT,FALSE,"Austin, TX",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Quantitative Researcher / Python Developer,Austin,Travis,30.120427,-97.743317,TX,78747
+Opendoor,FALSE,Financial/Business Services,FALSE,"Dallas, TX",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Real Estate/Property Management,                    ,             ",Listing Agent / Real Estate Sales,Dallas,Dallas,32.652934,-96.820845,TX,75232
+Zimmerman Advertising,TRUE,Other,FALSE,"Dallas, TX",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Data Scientist,Dallas,Dallas,32.652934,-96.820845,TX,75232
+Nesco Resource,FALSE,Other,FALSE,"Ft Worth, TX",1,TRUE,FALSE,TRUE,TRUE,TRUE,"Other/Not Classified,                    ,                ,       ",Sr Data Scientist,Fort Worth,Tarrant,32.743094,-97.426847,TX,76116
+Principle Solutions Group,FALSE,Other,FALSE,"The Woodlands, TX",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Clinical Data Analyst,Houston,Harris,29.571478,-95.131719,TX,77062
+Kforce Inc,TRUE,IT,FALSE,"Houston, TX",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Statistician / Data Scientist,Houston,Harris,29.571478,-95.131719,TX,77062
+Schlumberger Ltd.,TRUE,Other,FALSE,"Houston, TX",1,TRUE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist,Houston,Harris,29.571478,-95.131719,TX,77062
+Crane Worldwide Logistics,FALSE,Financial/Business Services,TRUE,"Houston, TX",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Business Services - Other,                    ,                   ",Data Scientist,Houston,Harris,29.571478,-95.131719,TX,77062
+"AMS Staffing, Inc.",FALSE,IT,FALSE,"Houston, TX",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Computer/IT Services,                    ,                    ,   ",Incident Platform Product Manager,Houston,Harris,29.571478,-95.131719,TX,77062
+Cottonwood Financial,FALSE,Financial/Business Services,FALSE,"Irving, TX",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Retail; Banking; Financial Services,                    ,         ",RISK ANALYST,Irving,Dallas,32.73178,-96.82273,TX,75039
+TXU Retail Services Company,FALSE,Other,FALSE,"Irving, TX",1,TRUE,FALSE,TRUE,FALSE,TRUE,"Energy and Utilities,                    ,                ,       ",Advanced Analytics - Data Scientist,Irving,Dallas,32.73178,-96.82273,TX,75039
+Ap Task,TRUE,Other,TRUE,"Irving, TX",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,BigData Architect,Irving,Dallas,32.73178,-96.82273,TX,75039
+Cottonwood Financial,FALSE,Financial/Business Services,FALSE,"Irving, TX",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Retail; Banking; Financial Services,                    ,         ",DIRECTOR OF MARKETING ANALYTICS,Irving,Dallas,32.73178,-96.82273,TX,75039
+L'Oreal,FALSE,Other,FALSE,"Paris, TX",1,FALSE,FALSE,TRUE,FALSE,TRUE,NA,Data Scientist - Machine Learning Expert,Paris,Lamar,33.612433,-95.464896,TX,75460
+"NextGen Information Services, Inc.",TRUE,Other,TRUE,"Plano, TX",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Sr Data Scientist,Plano,Collin,33.002395,-96.615837,TX,75086
+AT&T,FALSE,Other,TRUE,"Plano, TX",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Retail,                    ,                ,                    C",Big Data Software Engineer (Advertising) - BIG DATA,Plano,Collin,33.002395,-96.615837,TX,75086
+Capital One,FALSE,Other,FALSE,"Plano, TX",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Principal Data Scientist,Plano,Collin,33.002395,-96.615837,TX,75086
+Capital One,FALSE,Other,FALSE,"Plano, TX",1,TRUE,FALSE,TRUE,TRUE,FALSE,NA,Principal Data Scientist,Plano,Collin,33.002395,-96.615837,TX,75086
+USAA,FALSE,Other,FALSE,"San Antonio, TX",1,FALSE,TRUE,TRUE,FALSE,FALSE,NA,Data Scientist I,San Antonio,Bexar,29.173285,-98.478975,TX,78216
+United Services Automobile Association (USAA),FALSE,Other,FALSE,"San Antonio, TX",1,FALSE,TRUE,TRUE,FALSE,FALSE,NA,Data Scientist,San Antonio,Bexar,29.173285,-98.478975,TX,78216
+Company Confidential,TRUE,IT,FALSE,"San Antonio, TX",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Hardware; Computer Software; Computer/IT Services,       ",Sr. DataStage Developer,San Antonio,Bexar,29.173285,-98.478975,TX,78216
+University of Utah,FALSE,Other,FALSE,"University of Utah, UT",1,FALSE,FALSE,TRUE,FALSE,TRUE,"Education,                    ,                            ,      ",Assistant Data Scientist (15243B),Salt Lake City,Salt Lake,40.622557,-111.777749,UT,84121
+Progrexion,FALSE,Financial/Business Services,FALSE,"Salt Lake City, UT",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Financial Services,                    ,                ,         ",Data Scientist,Salt Lake City,Salt Lake,40.622557,-111.777749,UT,84121
+Merrick Bank,FALSE,Financial/Business Services,FALSE,"South Jordan, UT",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Financial Services,                    ,                ,         ",New Account Acquisition- Statistician,South Jordan,Salt Lake,40.554098,-111.953891,UT,84095
+Accenture,FALSE,Other,FALSE,"Alexandria, VA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Federal - Data Scientist,Alexandria,Fairfax,38.722264,-77.171945,VA,22309
+CALIBRE,FALSE,Other,FALSE,"Alexandria, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Alexandria,Fairfax,38.722264,-77.171945,VA,22309
+Accenture Inc,FALSE,Other,FALSE,"Alexandria, VA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Federal - Data Scientist,Alexandria,Fairfax,38.722264,-77.171945,VA,22309
+CyberCoders,FALSE,IT,FALSE,"Arlington, VA",1,TRUE,FALSE,FALSE,TRUE,FALSE,"Computer Software,                    ,                ,          ",Senior Cyber Defense Engineer,Arlington,Arlington,38.840403,-77.0888,VA,22206
+CyberCoders,FALSE,IT,FALSE,"Arlington, VA",1,TRUE,FALSE,TRUE,TRUE,FALSE,"Computer Software,                    ,                ,          ",Senior Software Engineer - Kernel Development,Arlington,Arlington,38.840403,-77.0888,VA,22206
+FGM Inc,FALSE,Other,FALSE,"Rosslyn, VA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Lead Cyber Security Data Scientist,Arlington,Arlington,38.840403,-77.0888,VA,22206
+Company Confidential,FALSE,IT,TRUE,"Arlington, VA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Computer/IT Services,                    ,                ,       ",API Design Manager,Arlington,Arlington,38.840403,-77.0888,VA,22206
+Altamira Technologies Corp.,FALSE,Other,TRUE,"Chantilly, VA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist,Chantilly,Fairfax,38.831813,-77.288755,VA,20153
+"Fulcrum IT Services, LLC",FALSE,Other,FALSE,"Fairfax/Manassas/Reston, VA",1,FALSE,FALSE,FALSE,TRUE,TRUE,"Other/Not Classified,                    ,                ,       ",Data Scientist (P),Fairfax,Fairfax,38.735114,-77.07965,VA,22036
+Alaka`ina Foundation Family of Companies,FALSE,Other,FALSE,"Falls Church, VA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,"Data Scientist, Military Healthcare Systems",Falls Church,Fairfax,38.831813,-77.288755,VA,22047
+ASRC Federal Holding Company LLC,FALSE,Other,TRUE,"Falls Church, VA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Other/Not Classified,                    ,                ,       ",Data Scientist,Falls Church,Fairfax,38.831813,-77.288755,VA,22047
+McGraw-Hill Financial,TRUE,Other,TRUE,"Glen Allen, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Sr. Data Scientist,Glen Allen,Henrico,37.531296,-77.416103,VA,23058
+Apex Systems,FALSE,IT,FALSE,"Glen Allen, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                ,       ",Team Lead - Analytics,Glen Allen,Henrico,37.531296,-77.416103,VA,23058
+The McGraw-Hill Companies Financial,TRUE,Other,TRUE,"Glen Allen, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Sr. Data Scientist,Glen Allen,Henrico,37.531296,-77.416103,VA,23058
+DigitalGlobe,FALSE,Other,TRUE,"Herndon, VA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Herndon,Fairfax,38.831813,-77.288755,VA,20172
+The Josef Group,FALSE,Other,TRUE,"Herndon, VA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Engineer,Herndon,Fairfax,38.831813,-77.288755,VA,20172
+DECISIVE ANALYTICS CORPORATION,FALSE,Other,TRUE,"Quantico, VA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Intelligence Systems Engineer,Quantico,Prince William,38.52602,-77.322803,VA,22134
+ManTech International Corp.,TRUE,Other,TRUE,"Reston, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Reston,Fairfax,38.831813,-77.288755,VA,20193
+"3D Tek, Inc.",TRUE,Other,TRUE,"Reston, VA",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Information Technology positions - Active TS/SCI with Full Scope Polygraph,Reston,Fairfax,38.831813,-77.288755,VA,20193
+The College Board,FALSE,Other,FALSE,"Reston, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist/Senior Data Scientist,Reston,Fairfax,38.831813,-77.288755,VA,20193
+National Security Agency (NSA),FALSE,Other,TRUE,"Springfield, VA;St Louis, MD",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Government and Military,                    ,                ,    ",Data Analyst **Pay Band 03/04**,Springfield,Fairfax,38.757015,-77.181612,VA,22153
+National Security Agency (NSA),FALSE,Other,TRUE,"Springfield, VA;St Louis, MD",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Government and Military,                    ,                ,    ",GEOINT Analyst (Data Science) **Pay Band 03/04/05**,Springfield,Fairfax,38.757015,-77.181612,VA,22153
+NuWave Solutions,FALSE,Other,FALSE,"Springfield, VA",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Data Scientist with TS-SCI,Springfield,Fairfax,38.757015,-77.181612,VA,22153
+Wiser Company,FALSE,Other,FALSE,"Springfield, VA",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Springfield,Fairfax,38.757015,-77.181612,VA,22153
+Wiser,FALSE,Other,FALSE,"Springfield, VA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Springfield,Fairfax,38.757015,-77.181612,VA,22153
+Booz Allen Hamilton,TRUE,Other,TRUE,"Springfield, VA",1,TRUE,FALSE,FALSE,FALSE,FALSE,NA,"Data Scientist, Senior",Springfield,Fairfax,38.757015,-77.181612,VA,22153
+Northrop Grumman Corporation,TRUE,Other,FALSE,"McLean, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist/Developer 4,West Mclean,Fairfax,38.831813,-77.288755,VA,22103
+FREDDIE MAC,FALSE,Financial/Business Services,FALSE,"McLean, VA",1,FALSE,FALSE,FALSE,TRUE,FALSE,"Banking,                    ,                ,                    ",Business Unit Controller Senior,West Mclean,Fairfax,38.831813,-77.288755,VA,22103
+Booz Allen Hamilton,FALSE,Other,FALSE,"McLean, VA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,"Data Scientist, Mid",West Mclean,Fairfax,38.831813,-77.288755,VA,22103
+Gannett Co. Inc.,TRUE,Other,FALSE,"Mclean, VA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,West Mclean,Fairfax,38.831813,-77.288755,VA,22103
+Expedia,TRUE,Other,FALSE,"Bellevue, WA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist II,Bellevue,King,47.432251,-121.803388,WA,98009
+"Expedia, Inc.",FALSE,Other,TRUE,"Bellevue, WA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist II,Bellevue,King,47.432251,-121.803388,WA,98009
+T-Mobile,TRUE,Other,TRUE,"Bellevue, WA",1,FALSE,FALSE,FALSE,TRUE,FALSE,NA,Sr Data Scientist,Bellevue,King,47.432251,-121.803388,WA,98009
+Washington State Office of the Governor,FALSE,Other,FALSE,"Olympia, WA",1,FALSE,FALSE,FALSE,FALSE,FALSE,"Government and Military,                    ,                    ,",SENIOR PERFORMANCE MANAGER,Olympia,Thurston,46.949776,-123.021207,WA,98512
+Microsoft Corporation,TRUE,Other,FALSE,"Redmond, WA",1,FALSE,TRUE,TRUE,TRUE,TRUE,NA,Data Scientist,Redmond,King,47.432251,-121.803388,WA,98073
+Microsoft Corporation,TRUE,Other,FALSE,"Redmond, WA",1,FALSE,TRUE,TRUE,TRUE,TRUE,NA,Data Scientist,Redmond,King,47.432251,-121.803388,WA,98073
+Pactera Technologies,FALSE,IT,FALSE,"Redmond, WA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer/IT Services,                    ,                    ,   ",Data Analyst,Redmond,King,47.432251,-121.803388,WA,98073
+Pactera Technologies,TRUE,IT,TRUE,"Redmond, WA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                    ,   ",Data scientist,Redmond,King,47.432251,-121.803388,WA,98073
+Microsoft Corporation,TRUE,Other,FALSE,"Redmond, WA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Senior Data Scientist,Redmond,King,47.432251,-121.803388,WA,98073
+Microsoft Corporation,TRUE,Other,FALSE,"Redmond, WA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist II,Redmond,King,47.432251,-121.803388,WA,98073
+Strategic IT Staffing,FALSE,IT,FALSE,"Seattle, WA",1,FALSE,FALSE,TRUE,TRUE,TRUE,"Computer Software; Computer/IT Services,                    ,     ",Data Science Director,Seattle,King,47.432251,-121.803388,WA,98101
+Amazon Corporate LLC,FALSE,Other,FALSE,"Seattle, WA",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Sr. Data Scientist/Business Intelligence Engineer,Seattle,King,47.432251,-121.803388,WA,98101
+Centrica,TRUE,Other,TRUE,"Seattle, WA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist - Technology Development,Seattle,King,47.432251,-121.803388,WA,98101
+IMPAQ International LLC,FALSE,Other,FALSE,"Seattle, WA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist - Python,Seattle,King,47.432251,-121.803388,WA,98101
+Convoy,FALSE,Other,FALSE,"Seattle, WA",1,FALSE,FALSE,FALSE,FALSE,FALSE,NA,Data Scientist,Seattle,King,47.432251,-121.803388,WA,98101
+Resource Informatics Group Inc,FALSE,IT,FALSE,"Seattle, WA",1,FALSE,FALSE,TRUE,TRUE,FALSE,"Computer/IT Services,                    ,                ,       ",Data Science Consultant w/ Spark exp,Seattle,King,47.432251,-121.803388,WA,98101
+TRC Staffing,FALSE,Other,FALSE,"Seattle, WA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Staffing/Employment Agencies,                    ,                ",Human Resources Business Analyst,Seattle,King,47.432251,-121.803388,WA,98101
+Oracle,TRUE,Other,FALSE,"Seattle, WA",1,FALSE,FALSE,TRUE,FALSE,FALSE,NA,Data Scientist,Seattle,King,47.432251,-121.803388,WA,98101
+HERE,TRUE,Other,FALSE,"Seattle, WA",1,TRUE,FALSE,TRUE,TRUE,TRUE,NA,Principal Data Scientist/Engineer,Seattle,King,47.432251,-121.803388,WA,98101
+s_com,TRUE,Other,FALSE,"Seattle, WA",1,FALSE,FALSE,FALSE,FALSE,TRUE,"Other/Not Classified,                    ,                ,       ",Business Analyst II,Seattle,King,47.432251,-121.803388,WA,98101
+Amazon.com,TRUE,Other,TRUE,"Seattle, WA",1,FALSE,FALSE,TRUE,TRUE,TRUE,NA,Data Scientist,Seattle,King,47.432251,-121.803388,WA,98101
+Fountain Group,FALSE,IT,FALSE,"Tacoma, WA",1,FALSE,FALSE,TRUE,FALSE,FALSE,"Computer Software,                    ,                ,          ",Wearable Technology Engineer,Tacoma,Pierce,47.066193,-122.113223,WA,98411
+"Johnson Controls, Inc.",TRUE,Other,FALSE,"Milwaukee, WI",1,FALSE,FALSE,TRUE,TRUE,FALSE,NA,Data Scientist,Milwaukee,Milwaukee,42.950565,-87.987933,WI,53221
+TransCanada,FALSE,Other,FALSE,"Charleston, WV",1,FALSE,FALSE,FALSE,FALSE,TRUE,NA,Gas Measurement Data Scientist,Charleston,Kanawha,38.235149,-81.553608,WV,25315

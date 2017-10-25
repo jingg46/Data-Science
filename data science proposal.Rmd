@@ -6,4 +6,17 @@ author: Jing Li
 
 ###Introduction
 
-This project aims at analyzing the current job market. To be more specific, 
+This project aims at analyzing the current job market. To be more specific, the focus is on full time data scientist/analyst positions. As the need for data scientist boosts recently, we are curious about the corresponding skill sets. Other than programming and other technical backgrounds, we will also take soft skill requirement into consideration. Meanwhile, we are also interested in knowing some company backgrounds. Geographically, does west coast more likely to hire data scientists? In terms of industry, do tech companies have more openings for data scientists? Does the skill requirement for data scientist differ based on industry variaty? Hopefully, we have enough confidence to answer those questions at the end of this project and at the mean time, help job seekers to better equip themselves for career as data scientists.
+
+###Hypothesis
+
+* Technical companies like google and facebook are more likely to hire data scientist due to their data capacity.
+* West coast is more likely to hire data-related talents since the majority of tech companies are located at west coast.
+* Increasing number of companies now require R as the primary language to process data instead of Python or Perl.
+
+###Approach
+
+In order to avoid bias, the data will be obtained from at least two career searching websites. In our case, linkedin and glassdoor will be used to obtain the required data. In order to use API, public keys have to be obtained from both websites.
+
+
+
