@@ -1,0 +1,203 @@
+---
+title: "Understanding the Current Job Market for Data Scientists"
+author: "Jing Li"
+geometry: margin=2cm
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r, echo = F, message = F, warning = F}
+packages<-c("rvest", "tm", "wordcloud")
+
+for (i in packages){
+  if(!require(i,character.only = T,quietly=T,warn.conflicts = F)){
+    install.packages(i, repos = "http://cran.us.r-project.org")
+  }
+  require(i,character.only = T,quietly=T,warn.conflicts = F)
+}
+
+library(rvest)
+library(tm)
+library(wordcloud)
+```
+
+
+# Introduction
+
+It is known to all that the job market has been changing sharply over time in US. Back in 2000s, Healthcare and Biotechnology related occupations were of greatest interest, while in 2010s, a large portion of college students started to major in Computer Science due to the rapid growth of technical industry (U.S. Bureau of Labor Statistics, 2017). However, as the capacity of data increases dramatically especially for large companies, the demand for making use of the data and ultimately drawing business insights from analysis of the data grows as well (Strauss, 2017). And this directly causes the increasing demand for Data Science Expert who can tell a story from the data based on the application of Computer Science and Statistics. According to Glassdoor 2017 job market report, Data Scientist is taking over Software Developer as the best job in US based on the salary and job satisfaction. Indeed, the candidate pool will also grow with the demand and therefore knowing the recruiment criteria beforehand is essential in becoming a successful candidate. 
+
+This report aims at analyzing the current job market for full time Data Scientist positions; specifically the analysis will be focusing on skill requirement (programming and soft skills), geographical trend as well as industry preference. The hypotheses are as followed:
+
+1. More companies now require R as the primary language to process data instead of Python or Perl (Muenchen, 2009).
+
+2. The combination of statistical programming skills as well as teamwork makes the required skill sets for Data Scientist unique out of other technical positions (Press, 2014). 
+
+3. IT industry would be more likely to hire Data Scientists and West Coast prefers to hire data-related talents due to the large quantity of Technical Companies (pwc, 2017).
+
+Data will be obtained from Monster.com through web scraping (details will be covered in Approach Section). Wordcloud, barplot and map will be used for exploratory analysis and Marascuilo Procedure will be used for testing. In general, technical firms are the major employers for Data Scientist but the locations of the companies do not seem to have significant impacts. In terms of pro
+gramming skills, employers still prefer Python slightly over R but this trend differs based on industry.  
+
+# Approach
+
+**Data Mining**
+
+As mentioned previously, Monster will be used as primary sources to obtain the required data. The detailed procedures are as followed: 
+
+1. Search "Data Scientist" in Monster and only selects results for full time positions. Save the urls (40 pages in total and each page has 40 job posts) for each page.
+
+2. Use Selector Gadget, a Google Chrome application, to obtain the html xpath for job title, company name, geographical location, industry as well as job description.
+
+3. Use Rvest package to extract information from the html xpath and save it as data frame in r.
+
+4. Since Monster's job posts may have different formats, data can only be extracted from the default format. In order to solve this problem, observations that have missing industry and skill sets information will be automatically deleted. Meanwhile, duplication will be removed either in order to avoid bias. The final data set contains 481 observations and 12 variables (company name, job title, location, industry and tags for R, Python, Perl, Hadoop, SQL, Perl, Phd Degree and Java).
+
+__Exploratory Analysis__
+
+Wordcloud, barplot and map are used for visulization. The job description is used for generating the wordcloud and the purpose of this approach is to check soft skills requirement for Data Scientist other than technical backgrounds. Industry map and barplot are generated using Tableau in order to examine the difference in job openings and requirement by location and by industry.
+
+__Statistical Testing__
+
+Marascuilo Procedure is used for testing if the occurance of each skill within each industry truly differs from each other. The null hypothesis is that the occurance of skill A does not differ significantly comparing industry B with industry C. The strength of using this approach is that it can measure the critical value for all pairs and then decide which pairs are significantly different regardless of the sample size difference (Wagh, 2016). 
+
+1. Calculate the absolute difference ($p_i - p_j$) for all possible pair combinations. This is the test statistics for Marascuilo Procedure.
+
+2. Compute the critical value using $r_{ij} \ = \sqrt{\chi^2_{1-\alpha, k-1}} \sqrt{\frac{p_i(1-p_i)}{n_i} + \frac{p_j(1-p_j)}{n_j}}$
+
+3. Compare the test statistics with the critical value. The null hypothesis is rejected when the test statustics exceeds the critical values.
+
+# Result
+
+__Exploratory Analysis__
+
+![Bar Chart Based on Industry and Skills](`r file.path("data", "Bar chart for industry and skills.png")`)
+
+Figure 2 in the appendix shows a map based on industry and the number of positions; larger circles indicate more openings within that area. In order for better presentation, only 3 types of industries are considered: Financial/Business Services, Healthcare/Biotech as well as IT. The remaining industries are categorized into "other". As expected, technical companies are more likely to hire Data Scientist compared to other industries. However, based on Figure 2, technical companies from West Coast and East Coast do not differ significantly in hiring Data Scientist. 
+
+In order to dig more into the relationship of industry and skill requirement, the specific soft and technical backgrounds are being discussed in here. The wordcloud in the appendix is generated from the job description. As expected, technical backgrounds such as machine learning, statistics, modeling as well as analytics are the primary skill sets required for Data Scientist positions. Meanwhile, recruiters would also require candidates to have relevant experience in solving analytical problems and ultimately to provide business insights from the data. However, other than technical skills, the abilities to collaborate with the team, to support other colleages and to work with customers are necessary as well.
+
+Table 1 in the appendix further quantifies the requirement for technical backgrounds. Approximately 61.1% of Data Scientist jobs posted on Monster require Python background while only 50.1% of positions require R, which contradicts with our hypothesis that companies now have preference for R over Python. Interestingly, only 15.4% of jobs require Phd degrees and less than 3% of jobs ask for old-school programming languages such as Perl. 
+
+Combining the above information, the bar chart from Figure 1 further examines the relationship of industry and skill requirement. Based on the plot, Python is still the primary language especially for IT industry. Interestingly, Healthcare/Biotech and Financial/Business industries value more about SQL over Python and R. Perl is most popular among Healthcare/Biotech industries but the percentage is still significantly lower; only 8.3% of Healthcare/Biotech companies require Perl. Surprisingly, Phd degrees are not a requirement at all for Healthcare/Biotech companies (this may happen due to small sample sizes).
+
+```{r, echo = F}
+###Maraschilo Test
+
+p <- list(c(0.52, 0.422, 0.5, 0.269), c(0.5552, 0.4222, 0.5, 0.2692), c(0.5032, 0.3926, 0.5833, 0.5), c(0.3377, 0.2667, 0.25, 0.1538), c(0.25, 0.2667, 0.0833, 0.1154), c(0.1721, 0.1778, 0, 0.0769), c(0.0357, 0, 0.0833, 0.0385))
+n <- c(308, 135, 12, 26)
+skill <- c("Python", "R", "SQL", "Hadoop", "Java", "Phd", "Perl")
+N <- length(n)
+value = critical.range = tag = c()
+categories <- c("Other", "IT", "Healthcare", "Finance")
+
+## Compute critical values
+for (inx in 1:length(skill)){
+  for (i in 1:(N-1)){ 
+    for (j in (i+1):N){
+    
+      value <- c(value,(abs(p[[inx]][i]-p[[inx]][j])))
+      critical.range = c(critical.range, sqrt(qchisq(.95,N-1))*sqrt(p[[inx]][i]*(1-p[[inx]][i])/n[i] + p[[inx]][j]*(1-p[[inx]][j])/n[j]))
+      tag = c(tag, paste(categories[i], categories[j], sep = "-"))
+    
+    }
+  }
+  df <- as.data.frame(cbind(value,critical.range, tag), stringsAsFactors = F)
+  df$value <- round(as.numeric(df$value),3)
+  df$critical.range <- round(as.numeric(df$critical.range),3)
+  df$significance <- ifelse(df$value>df$critical.range,"yes","no")
+}
+
+df$skill <- unlist(lapply(skill, function(x) rep(x, 6)))
+```
+
+__Statistical Testing__
+
+_Table 2. Result from Marascuilo Procedure_
+
+$Skills$ | $Other-IT$ | $Other-Healthcare$ | $Other-Finance$ | $IT-Healthcare$ | $IT-Finance$ | $Healthcare-Finance$
+-------- | ----------- | ------------- | ------------ | ------------ | ------------ | ----------- | ------------- 
+`r skill[1]` | `r paste0(df[1,1], "(", df[1,2], ")")` | `r paste0(df[2,1], "(", df[2,2], ")")` | `r paste0(df[3,1], "(", df[3,2], ")")` | `r paste0(df[4,1], "(", df[4,2], ")")` | `r paste0(df[5,1], "(", df[5,2], ")")` | `r paste0(df[6,1], "(", df[6,2], ")")`
+`r skill[2]` | `r paste0(df[7,1], "(", df[7,2], ")")` | `r paste0(df[8,1], "(", df[8,2], ")")` | **`r paste0(df[9,1], "(", df[9,2], ")")`** | `r paste0(df[10,1], "(", df[10,2], ")")` | `r paste0(df[11,1], "(", df[11,2], ")")` | `r paste0(df[12,1], "(", df[12,2], ")")`
+`r skill[3]` | `r paste0(df[13,1], "(", df[13,2], ")")` | `r paste0(df[14,1], "(", df[14,2], ")")` | `r paste0(df[15,1], "(", df[15,2], ")")` | `r paste0(df[16,1], "(", df[16,2], ")")` | `r paste0(df[17,1], "(", df[17,2], ")")` | `r paste0(df[18,1], "(", df[18,2], ")")`
+`r skill[4]` | `r paste0(df[19,1], "(", df[19,2], ")")` | `r paste0(df[20,1], "(", df[20,2], ")")` | `r paste0(df[21,1], "(", df[21,2], ")")` | `r paste0(df[22,1], "(", df[22,2], ")")` | `r paste0(df[23,1], "(", df[23,2], ")")` | `r paste0(df[24,1], "(", df[24,2], ")")`
+`r skill[5]` | `r paste0(df[25,1], "(", df[25,2], ")")` | `r paste0(df[26,1], "(", df[26,2], ")")` | `r paste0(df[27,1], "(", df[27,2], ")")` | `r paste0(df[28,1], "(", df[28,2], ")")` | `r paste0(df[29,1], "(", df[29,2], ")")` | `r paste0(df[30,1], "(", df[30,2], ")")`
+`r skill[6]` | `r paste0(df[31,1], "(", df[31,2], ")")` | **`r paste0(df[32,1], "(", df[32,2], ")")`** | `r paste0(df[33,1], "(", df[33,2], ")")` | **`r paste0(df[34,1], "(", df[34,2], ")")`** | `r paste0(df[35,1], "(", df[35,2], ")")` | `r paste0(df[36,1], "(", df[36,2], ")")`
+`r skill[7]` | **`r paste0(df[37,1], "(", df[37,2], ")")`** | `r paste0(df[38,1], "(", df[38,2], ")")` | `r paste0(df[39,1], "(", df[39,2], ")")` | `r paste0(df[40,1], "(", df[40,2], ")")` | `r paste0(df[41,1], "(", df[41,2], ")")` | `r paste0(df[42,1], "(", df[42,2], ")")`
+
+The test statistics and critical values (in the parenthesis) from Marascuilo Procedure are attached in Table 2. Note that the null hypothesis is rejected when the test statistics exceeds the critical value. Based on Table 2, 4 comparisons are statistically different: R occurance comparing other with Financial/Business industry, Phd Degree occurance comparing other with Healthcare/Biotech industry and IT with Healthcare/Biotech industry, and Perl occurance comparing other with IT industry. 
+
+# Summary
+
+As expected, Technical industry is the main employer for Data Scientist. However, in terms of geographical preference, West Coast does not seem to have more openings; in fact, East Coast together with some states of Midwest have more positions for Data Scientist compared to West Coast, which contradicts with our hypothesis. Interestingly, financial and business services seem to have more openings for Data Scientist compared to Healthcare/Biotech and others.
+
+In terms of the most common skills, Python is still the primary language required for Data Scientist but R still has the tendency to join the mainstream. Additionally, the breakdown of skill requirement differs based on industry; for Healthcare/Biotech and Financial/Business companies, SQL is actually the most common skill. The result from Marascuilo Procedure further indicates that certain skill requirement does differ based on industry. For example, the occurance of R is statistically different among other and Financial/Business industry. In other words, R is not necessarily required for candidates applying Data Scientist positions in Financial area. 
+
+Other than technical background, successful candidates should also have abilites to work with team and to support colleages. To be more specific, the major role of Data Scientists is to provide insight based on data analysis and this process would generally require collaboration and communication with other teams. Therefore, it is the combination of programming skills and the ability of collaboration makes the required skill set for Data Scientist unique among other technical positions. 
+
+###Appendix
+
+![Map Based on Industry](`r file.path("data", "Industry Map.png")`)
+
+
+```{r, echo = F, message = F, warning = F, fig.height=3.5, fig.width=4}
+
+library(rvest)
+
+monster <- read.csv(file.path("data", "monster.csv"))
+
+###dealing with job description
+temp <- strsplit(trimws(monster$Description) ," ")
+temp <- unlist(temp)
+temp <- gsub("\n", "", temp)
+temp <- temp[-which(temp=="")]
+temp <- tolower(temp)
+temp <- gsub("teams", "team", temp)
+temp <- gsub("statistical", "statistical.knowledge", temp)
+temp <- gsub("machine", "machine.learning", temp)
+temp <- gsub("predictive", "predictive.modeling", temp)
+temp <- gsub("projects", "project", temp)
+temp <- gsub("technology", "technologies", temp)
+temp <- gsub(",", "", temp)
+
+###remove connection word
+library(tm)
+library(wordcloud)
+temp <- temp[!temp %in% stopwords("en")]
+
+my.stopword <- c(",", "/", "&","-", "job", "will", "view", "info", "work", "years", "less", "new", "ability", "knowledge", "skills", "learning", "using", "working", "analysis", "including", "develop", "one", "help", "and/or", "provide", "big", "large", "product", "company", "opportunity", "related", "strong", "information", "tools", "degree", " ", "employment", "developing", "apply", "within", "building", "build", "use", "looking", "position", "role", "status", "across", "can", "understanding", "science", "scientist", "development", "systems", "services", "must")
+
+temp <- temp[!temp %in% my.stopword]
+
+skill <- as.data.frame(sort(table(temp), decreasing = T)[1:40])
+skill <- skill[-c(21, 31),]
+
+wordcloud(words = skill$temp, freq = skill$Freq, min.freq = 1, random.order = FALSE, rot.per=0.2, colors=brewer.pal(8, "Paired"), scale = c(5, 1))
+```
+
+_Table 1. Technical Skills Occurance_
+
+$Python$ | $R$ | $SQL$| $Hadoop$ | $Java$ | $Phd \ Degree$ | $Perl$  
+-------- | -------- | -------- | -------- | -------- | -------- | -------- |
+`r mean(monster$Python)` | `r mean(monster$R)` | `r mean(monster$SQL)` | `r mean(monster$Hadoop)` | `r mean(monster$Java)` | `r mean(monster$PHD)` | `r mean(monster$Perl)`
+
+###Reference
+U.S. Bureau of Labor Statistics: https://www.bls.gov/emp/ep_table_104.htm
+
+Strauss, K. (SEP 21, 2017). Becoming A Data Scientist: The Skills That Can Make You The Most Money. Forbes. https://www.forbes.com/sites/karstenstrauss/2017/09/21/becoming-a-data-scientist-the-skills-that-can-make-you-the-most -money/#3b8d6cfc634f
+
+Glassdoor Report: https://www.glassdoor.com/List/Best-Jobs-in-America-LST_KQ0,20.htm
+
+PWC Report: https://www.pwc.com/us/en/publications/data-science-and-analytics.html
+
+Muenchen, R.A. (2009) The Popularity of Data Science Software. http://r4stats.com/articles/popularity/
+
+Press, G. (FEB 11, 2014). Big Data Debates: Individuals Vs. Teams. Forbes. https://www.forbes.com/sites/gilpress/2014/02/11/big-data-debates-individuals-vs-teams/#63b247a17e25
+
+Coordinate Data was obtained from: https://www.gaslampmedia.com/wp-content/uploads/2013/08/zip_codes_states.csv
+
+Sunanda T Wagh, Naser Ahmed Razvi. Marascuilo method of multiple comparisons (an analytical study of
+caesarean section delivery). International Journal of Contemporary Medical Research 2016;3(4):1137-1140.
+
+Personal Communication: Stephen Cristiano
+
+Personal Communication: Shannon Wongvibulsin
